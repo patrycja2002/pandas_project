@@ -1,0 +1,1001 @@
+id,drug_company,drug_brand,drug_name,drug_price
+1,Jafra cosmetics International,Aluminum Chlorohydrate,hair minimizing antiperspirant deodorant roll-on,72.46
+2,RunGuards LLC,ALLANTOIN,Run Guard Original,81.31
+3,"Sun & Skin Care Research, LLC","avobenzone, homosalate, octisalate, octocrylene",Parrot Head Floridays 50,127.99
+4,YVES ROCHER NORTH AMERICA INC,ALCOHOL,ANTISEPTIC HAND GEL,161.9
+5,Ohm Laboratories Inc.,norethindrone,NORLYROC,127.01
+6,L'Oreal USA Products Inc,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",Kiehls Since 1851 Activated Sun Protector Broad Spectrum SPF 50 Sunscreen,121.68
+7,"NEW WORLD IMPORTS, INC.",TETRAHYDROZOLINE HYDROCHLORIDE,NWI ORIGINAL,30.39
+8,Rebel Distributors,TIZANIDINE HYDROCHLORIDE,TIZANIDINE HYDROCHLORIDE,129.38
+9,LABORATORIOS DE COSMETICA SCIENTIFI,SALICYLIC ACID,Oily SK Balancing I,74.84
+10,Mission Hills S.A de C.V,SODIUM MONOFLUOROPHOSPHATE,Colgate Optic White,102.37
+11,Geritrex Corp.,Trolamine Salicylate,Asper-Flex,78.53
+12,"Prestige Brands Holdings, Inc.",Pectin,Ludens Wild Cherry Throat Drops,15.55
+13,China Ningbo Shangge Cosmetic Technology Corp.,Ethyl Alcohol,Instant Hand Sanitizer - Ice Clear,72.12
+14,"Physicians Total Care, Inc.",lisinopril,lisinopril,167.38
+15,sanofi-aventis U.S. LLC,rasburicase,Elitek,104.06
+16,"APP Pharmaceuticals, LLC",IFOSFAMIDE,Ifosfamide,109.36
+17,"E.R. Squibb & Sons, L.L.C.",stavudine,ZERIT,141.26
+18,"NATURE REPUBLIC CO., LTD.","OCTINOXATE, Titanium Dioxide, OCTISALATE",UV LOCK FLOWER SUN,51.37
+19,Greenstone LLC,nifedipine,nifedipine,12.77
+20,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",Menthol and Methyl Salicylate,Bengay Greaseless Pain Relieving,70.42
+21,"Astellas Pharma US, Inc.",mirabegron,Myrbetriq,136.67
+22,EKR Therapeutics,nicardipine hydrochloride,Cardene,186.42
+23,"SAVE-A-LOT FOOD STORES, LTD.",Ibuprofen,Ibuprofen,116.77
+24,MCKESSON MEDICAL-SURGICAL,Zinc Oxide,MEDI-PAK,175.43
+25,Forces of Nature,Silicon Dioxide and Calendula Officinalis Flowering Top,Acne/Pimple Cleanse,35.51
+26,REMEDYREPACK INC.,albuterol sulfate,VENTOLINHFA,40.57
+27,"Deseret Biologicals, Inc.",not applicable,Bio Viscum Compositum,69.32
+28,Apotex Corp,Cefazolin,Cefazolin,30.99
+29,Fera Pharmaceuticals,PETROLATUM OPHTHALMIC OINTMENT,STERILUBE OINTMENT,38.25
+30,"Cover FX Skin Care, Inc.",SALICYLIC ACID,Cover Fx Blemish Treatment Concealer P Medium,37.67
+31,Natural Health Supply,HELODERMA HORRIDUM VENOM,HEADACHE,42.44
+32,"Antigen Laboratories, Inc.",Cephalothecium,Cephalothecium,176.94
+33,Guthy-Renker LLC,"AVOBENZONE, OCTINOXATE, OCTISALATE, and OXYBENZONE",Meaningful Beauty Cindy Crawford Antioxidant,74.48
+34,Richard E. Colgin I. Ltd,"CAMPHOR (SYNTHETIC), PHENOL, MENTHOL",Chigarid,45.06
+35,Procter and Gamble Manufacturing Company,ALUMINUM ZIRCONIUM OCTACHLOROHYDREX GLY,Gillette Power Beads,133.62
+36,Bausch & Lomb Incorporated,water,Eye Wash,104.4
+37,"Western Family Foods, Inc",White Petrolatum,Pure petroleum,70.36
+38,Ventura Corporation LTD,"Avobenzone, Octisalate, Zinc Oxide, Octinoxate, and Oxybenzone",CY BETTER LIPS BALM Humectante para Labios con color FPS 18,184.08
+39,Uriel Pharmacy Inc.,Astragalus e rad. 3,Astragalus e rad. 3,166.48
+40,Cardinal Health,ONDANSETRON,ONDANSETRON,119.68
+41,Uriel Pharmacy Inc.,Phosphorus comp.,Phosphorus comp.,94.94
+42,AvPAK,Isradipine,Isradipine,119.49
+43,Atlantic Biologicals Corps,megesterol acetate,Megace ES,75.64
+44,Bristol-Myers Squibb Pharma Company,warfarin sodium,COUMADIN,107.25
+45,A-S Medication Solutions LLC,Betamethasone Valerate,Betamethasone Valerate,101.21
+46,"Shopko Stores Operating Co., LLC",fexofenadine hcl,Allergy Relief,4.13
+47,"Deb USA, Inc.",Chloroxylenol,Clean Choice Antibacterial,75.1
+48,Sandoz Inc,ropinirole,ropinirole,57.25
+49,"H.J. Harkins Company, Inc.",Sulindac,Sulindac,175.91
+50,Pfizer Consumer Healthcare,ibuprofen,ADVIL,163.59
+51,BCM Ltd,"Avobenzone, Octisalate and Octocrylene",No7 Beautiful Skin Day Normal Oily Sunscreen Broad Spectrum SPF 15,84.5
+52,"Blu Pharmaceuticals, LLC",Lisinopril,Lisinopril,101.11
+53,"Physicians Total Care, Inc.",Promethazine Hydrochloride,Promethazine Hydrochloride,110.62
+54,Rite Aid Corporation,Loratadine,Childrens Allergy Relief,123.93
+55,"Nelco Laboratories, Inc.",Garlic,Garlic,171.54
+56,"Teva Parenteral Medicines, Inc.",Haloperidol Decanoate,Haloperidol Decanoate,13.25
+57,Mentholatum China Pharmaceutical Co. Ltd.,Menthol,Cold and Hot Medicated,133.77
+58,Apotex Corp.,Rivastigmine Tartrate,Rivastigmine Tartrate,143.77
+59,Topco Associates LLC,"Phenylephrine HCl, Witch hazel",topcare hemorrhoidal cooling,67.61
+60,DZA Brands LLC,Loratadine,Healthy accents allergy relief,194.39
+61,Perrigo New York Inc,Salicylic Acid,salicylic acid,55.93
+62,Apotheca Company,"Condurango, Stomach, Nux vomica, Aurum metallicum, Antimonium crudum, Hyoscyamus niger, Sulphur,",MBM 10 Stomach,123.62
+63,"Chattem, Inc.",Selenium Sulfide,Selsun Blue Moisturizing,10.31
+64,"Mallinckrodt, Inc.",IMIPRAMINE PAMOATE,IMIPRAMINE PAMOATE,9.19
+65,"Mutual Pharmaceutical Company, Inc.",lovastatin,lovastatin,195.34
+66,"Janssen Pharmaceuticals, Inc.",acetaminophen and codeine phosphate,TYLENOL with Codeine,2.23
+67,Empack,Ethanol,ZYTEC,45.85
+68,Vansen Pharma Inc.,cefditoren pivoxil,Spectracef,199.45
+69,"ALK-Abello, Inc.",Allergenic Extracts Alum Precipitated,CENTER-AL - FESTUCA PRATENSIS POLLEN,81.53
+70,HOMEOLAB USA INC.,PULSATILLA,PULSATILLA,108.23
+71,"Nelco Laboratories, Inc.",Cultivated Wheat,Cultivated Wheat,104.76
+72,"MedVantx, Inc.",Cephalexin,Cephalexin,199.95
+73,Apotex Corp.,Letrozole,Letrozole,2.42
+74,"Physicians Total Care, Inc.",flurbiprofen,Flurbiprofen,154.72
+75,Apotheca Company,"Passiflora incarnata, Scutellaria lateriflora, Valeriana officinalis, Arsenicum album, Calcarea carbonica, Coffea cruda, Ignatia amara, Kali phosphoricum Lycopus virginicus, Staphysagria",Relaxatone,83.35
+76,REMEDYREPACK INC.,Levothyroxine Sodium,Levothyroxine Sodium,161.96
+77,"Gilead Sciences, Inc.",CIDOFOVIR,Vistide,50.55
+78,Mylan Pharmaceuticals Inc.,flurbiprofen,Flurbiprofen,140.46
+79,AvPAK,Amlodipine Besylate,Amlodipine Besylate,32.04
+80,Major Pharmaceuticals,Tetrahydrozoline Hydrochloride,Major Redness Reliever Eye,100.07
+81,"Gurwitch Products, L.L.C.","Octinoxate ,Avobenzone",Laura Mercier Tinted Moisturizer SPF 20 Bare Radiance,105.26
+82,Aidarex Pharmaceuticals LLC,pravastatin sodium,pravastatin sodium,29.14
+83,VOLUME DISTRIBUTORS,ALUMINUM CHLOROHYDRATE,Xtreme Stick Anti-Perspirant and Deodorant,80.1
+84,Wockhardt USA LLC.,CAPTORPIL,CAPTOPRIL,103.0
+85,Access Business Group LLC,OCTOCRYLENE AVOBENZONE OCTISALATE HOMOSALATE,Peter Island Continous sunscreen,48.45
+86,"Carlsbad Technology, Inc.",Ciprofloxacin,Ciprofloxacin,193.6
+87,Baxter Healthcare Corporation,"Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Dextrose",CLINIMIX,169.19
+88,Mondel?z Global LLC,Menthol,Halls,40.3
+89,"APP Pharmaceuticals, LLC",LIDOCAINE HYDROCHLORIDE,Xylocaine,47.49
+90,Apotex Corp.,Levetiracetam,Levetiracetam,108.51
+91,"Chester Packaging, LLC",Triclosan,Antimicrobial,94.21
+92,Actavis Mid Atlantic LLC,Desonide,Desonide,50.01
+93,REMEDYREPACK INC.,Fluconazole,Fluconazole,146.46
+94,"Bare Escentuals Beauty, Inc.",Titanium Dioxide and Zinc Oxide,bareMinerals Daily Defense Broad Spectrum SPF 30,153.0
+95,"Hi-Tech Pharmacal Co., Inc.",Hydrocodone Bitartrate and Homatropine Methylbromide,Hydrocodone Bitartrate and Homatropine Methylbromide,149.22
+96,REMEDYREPACK INC.,Allopurinol,Allopurinol,64.53
+97,REMEDYREPACK INC.,INDOMETHACIN,INDOMETHACIN,186.81
+98,HyVee Inc,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate",Nighttime Cold and Flu,149.09
+99,"Aphena Pharma Solutions - Tennessee, LLC",ATORVASTATIN CALCIUM,Lipitor,80.72
+100,Par Pharmaceutical Inc.,Fentanyl,Fentanyl,96.98
+101,"Par Pharmaceutical, Inc",olanzapine and fuoxetine,Olanzapine and Fluoxetine,18.34
+102,"Bath & Body Works, Inc.",Triclosan,Anti-Bacterial Deep Cleansing Hand,46.45
+103,United Exchange Corp,OXYMETAZOLINE HYDROCHLORIDE,Family Care Nasal Relief,28.82
+104,"Allergy Laboratories, Inc.",sage,SAGE FOOD,44.95
+105,"Breckenridge Pharmaceutical, Inc.",RISPERIDONE,RISPERIDONE,102.24
+106,GlaxoSmithKline LLC,ondansetron hydrochloride,ZOFRAN,9.06
+107,Kmart Corporation,"Pseudoephedrine sulfate, Loratadine",smart sense allergy and congestion relief,146.0
+108,H E B,Aspirin,Aspirin,186.73
+109,"Ventura Corporation (San Juan, P.R)","Octinoxate, Oxybenzone, and Titanium Dioxide",ESIKA,158.83
+110,Exelencia Importers Corp,"Octocrylene,Octinoxate,Octisalate,Oxybenzone,Titanium Dioxide",Sunscreen Creme SPF 37,4.73
+111,JAFRA COSMETICS INTERNATIONAL,HOMOSALATE OCTINOXATE OCTISALATE OXYBENZONE TITANIUM DIOXIDE OCTOCRYLENE,TENDER MOMENTS,39.34
+112,"Blenheim Pharmacal, Inc.",Phentermine Hydrochloride,Phentermine Hydrochloride,122.1
+113,Meijer Distribution Inc,Acetaminophen,pain relief,58.49
+114,7-11,ALCOHOL,7-11 Instant Hand Sanitizer With Aloe And Vitamin E,45.86
+115,Unifirst First Aid Corporation,"Benzalkonium Chloride, Lidocaine Hydrochloride",Derma-Caine,19.98
+116,DIRECT RX,LORATADINE,LORATADINE,180.94
+117,The Mentholatum Company,Hydroxyethyl cellulose,Rohto Hydra,43.83
+118,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,Betamethasone Dipropionate,Betamethasone Dipropionate,49.32
+119,"ALK-Abello, Inc.",Birch White,BETULA LENTA POLLEN,188.08
+120,Machine & Welding Supply Company,Nitrogen,Nitrogen,98.47
+121,Sandoz Inc,Cefprozil,Cefprozil,160.65
+122,Bryant Ranch Prepack,Benzonatate,Benzonatate,146.89
+123,Ranbaxy Pharmaceuticals Inc.,Doxycycline,Doxycycline,109.07
+124,"Nelco Laboratories, Inc.",Honeydew Melon,Honeydew Melon,22.76
+125,Teva Pharmaceuticals USA Inc,Quetiapine Fumarate,Quetiapine Fumarate,36.1
+126,University Medical Pharmaceuticals Corp,Benzoyl Peroxide,AcneFree Severe Maximum Strength Repair Lotion,111.39
+127,Rebel Distributors Corp.,Atenolol,Atenolol,7.44
+128,A-S Medication Solutions LLC,Amitriptyline Hydrochloride,Amitriptyline Hydrochloride,123.15
+129,"Fresenius Kabi USA, LLC",PROPOFOL,Diprivan,193.39
+130,"Roxane Laboratories, Inc",METHADONE HYDROCHLORIDE,METHADONE HYDROCHLORIDE,100.21
+131,Laboratoires Clarins S.A.,TITANIUM DIOXIDE,Super Restorative Foundation True Lift SPF 15 Tint 03,81.0
+132,Rebel Distributors Corp,Ceftriaxone Sodium,Ceftriaxone Sodium,174.4
+133,Alexso Inc.,"Methyl Salicylate, Capsaicin, Menthol and Lidocaine Hydrochloride",Terocin,163.89
+134,"Physicians Total Care, Inc.",Glyburide,Glyburide,87.77
+135,Melaleuca Inc.,Aluminum zirconium tetrachlorohydrex gly (19% Anhydrous),Sheer Confidence Antiperspirant Deodorant,4.2
+136,"Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.","Eucalyptol, Menthol, Methyl Salicylate, and Thymol",Listerine Cool Mint Antiseptic,180.12
+137,"Seyer Pharmatec, Inc.","Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",Broncotron PED,174.28
+138,Ranbaxy Pharmaceuticals Inc.,Ciprofloxacin,Ciprofloxacin,49.4
+139,CareFusion 213 LLC,chlorhexidine gluconate and isopropyl alcohol,ChloraPrep One-Step,104.84
+140,Herbion Pakistan (Pvt.) Ltd,Menthol,Herbion Naturals Orange,161.16
+141,Cantrell Drug Company,Midazolam HCl,Midazolam HCl,88.99
+142,NeoStrata Company Inc,HYDROQUINONE,NeoStrata HQ Skin Lightening,87.18
+143,"Hospira, Inc.","DEXTROSE MONOHYDRATE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE",Potassium Chloride in Dextrose and Sodium Chloride,106.44
+144,"Church & Dwight Co., Inc.",Sodium Fluoride,Dental Care Advance Cleaning,167.58
+145,"Melaleuca, Inc.",Octisalate and Zinc Oxide,Sun Shades,194.01
+146,"NCS HealthCare of KY, Inc dba Vangard Labs",Gabapentin,Gabapentin,4.59
+147,Contract Pharmacy Services-PA,ENALAPRIL MALEATE,ENALAPRIL MALEATE,12.02
+148,"MCR American Pharmaceuticals, Inc.",GUAIFENESIN and Dextromethorphan Hydrobromide,Allfen DM,165.99
+149,"Physicians Total Care, Inc.",Temozolomide,TEMODAR,96.2
+150,Bryant Ranch Prepack,Pseudoephedrine HCl,Nasal Decongestant,134.29
+151,Pro Vera SA,"TITANIUM DIOXIDE, ZINC OXIDE",BIOSOLIS Extreme Fluid UVA Sunscreen Broad Spectrum Face and Neck SPF50,175.81
+152,Bryant Ranch Prepack,Prochlorperazine Maleate,PROCHLORPERAZINE MALEATE,140.68
+153,"NCS HealthCare of KY, Inc dba Vangard Labs",docusate sodium-sennosides tablet,SENEXON-S,156.59
+154,Apotheca Company,"Adrenalinum, Calcarea iodata, Kali iodatum, Pituitary bovine, Spleen bovine, Thymus bovine, Thyrodinum, Spongia tosta, Fucus vesiculosus, Calcarea fluorica, Ferrum iodatum, Iodium Calcarea carbonica,",Thyroid Rhythm,10.99
+155,"PD-Rx Pharmaceuticals, Inc.",Cyclobenzaprine Hydrochloride,Cyclobenzaprine Hydrochloride,70.01
+156,Cardinal Health,DEXAMETHASONE SODIUM PHOSPHATE,Dexamethasone Sodium Phosphate,179.43
+157,ViiV Healthcare Company,dolutegravir sodium,Tivicay,136.11
+158,ENCHANTE ACCESSORIES INC.,ALCOHOL,RUE 21 Apple Anti Bacterial Hand Sanitizer,180.19
+159,"Native Remedies, LLC","Kali muriaticum, Kali sulphuricum, Kali bichromicum",Mucus-Clear,42.78
+160,"Truceuticals, LLC",Trolamine,Tru-micin,91.45
+161,Kinray,menthol topical analgesic,Preferred Plus Arthritis Cream,162.64
+162,Shionogi Inc.,cephalexin,Keflex,147.44
+163,Zydus Pharmaceuticals (USA) Inc.,meloxicam,meloxicam,23.04
+164,"MSD Consumer Care, Inc.","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Coppertone Water Babies,84.7
+165,Children's Hospital of Michigan,SODIUM FLUORIDE F-18,Sodium FluorideF 18,48.99
+166,Aurobindo Pharma Limited,Amoxicillin,Amoxicillin,8.55
+167,Rebel Distributors Corp,promethazine hydrochloride,Promethegan,82.56
+168,"ALK-Abello, Inc.",Aspergillus Niger,ASPERGILLUS NIGER VAR NIGER,168.73
+169,"Aphena Pharma Solutions - Tennessee, LLC",acetaminophen and codeine phosphate,Acetaminophen And Codeine,159.28
+170,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Lamotrigine,Lamotrigine,22.42
+171,"Alva-Amco Pharmacal Companies, Inc.",Sodium Citrate,Nauzene,97.74
+172,"Spectrum Pharmaceuticals, Inc.",Belinostat,Beleodaq,141.89
+173,Kroger Company,Nicotine Polacrilex,Nicotine,62.03
+174,"Nelco Laboratories, Inc.",Canadian Blue Grass,Canadian Blue Grass,14.05
+175,Mylan Institutional LLC,Flumazenil,Flumazenil,7.26
+176,Cardinal Health,ENALAPRIL MALEATE,ENALAPRIL MALEATE,59.56
+177,Landy International,Alcohol,Bodycology,142.31
+178,"Chattem, Inc.",Menthol and Methyl Salicylate,Icy Hot,36.67
+179,REMEDYREPACK INC.,Carvedilol,Carvedilol,67.15
+180,"Hospira, Inc.",Etomidate,Amidate,179.16
+181,"Dispensing Solutions, Inc.",MIDAZOLAM HYDROCHLORIDE,Midazolam Hydrochloride,192.76
+182,Amerisource Bergen,Acetaminophen,good neighbor pharmacy pain relief,102.85
+183,"UDL Laboratories, Inc.",albuterol,Albuterol,94.35
+184,REMEDYREPACK INC.,Dorzolamide Hydrochloride and Timolol Maleate,Dorzolamide Hydrochloride and Timolol Maleate,93.68
+185,Aurobindo Pharma Limited,Sumatriptan Succinate,Sumatriptan Succinate,83.67
+186,"Teva Parenteral Medicines, Inc.",Levocarnitine,Levocarnitine,174.67
+187,Jafra Cosmetics International Inc,"Titanium Dioxide, Octinoxate/EthylhexylMehtoxycinnamate",Simply Beige,81.32
+188,Eli Lilly and Company,Tadalafil,Cialis,93.53
+189,Kmart Corporation,"Neomycin, Polymyxin B, Pramoxine HCl",smart sense antibiotic,148.84
+190,DIRECT RX,LISINOPRIL AND HYDROCHLOROTHIAZIDE,LISINOPRIL AND HYDROCHLOROTHIAZIDE,172.07
+191,Conopco Inc. d/b/a Unilever,Aluminum Zirconium Tetrachlorohydrex GLY,Dove,160.77
+192,"Nelco Laboratories, Inc.",Trichophyton mentagrophytes,Trichophyton mentagrophytes,72.86
+193,"Evonik Stockhausen, LLC",Triclosan,Stoko Refresh,52.51
+194,Jafra Cosmetics,"Avobenzone, Octinoxate, Octisalate, Octocrylene",Skin Balancing Makeup Broad Spectrum SPF 20,27.78
+195,"BioActive Nutritional, Inc.",Serotonin,Serotonin,60.77
+196,REMEDYREPACK INC.,Sertraline Hydrochloride,Sertraline Hydrochloride,198.67
+197,"Newton Laboratories, Inc.","Adrenalinum, Aloe, Arsenicum alb., Baptisia, Berber. Aqui., Berber. vulg., Bryonia, Chelidonium majus, Crotalus horridus, Digitalis, Ferrum metallicum, Glonoinum, Glycyrrhiza glabra , Hydrocotyle, Iodium, Iris versicolor, Lachesis, Lycopodium, Nat. mur., Nux vom., Rhus toxicodendron, Ruta, Thuja occ., Thyroidinum, Echinacea, Lappa, Solidago, Taraxacum",Vitality,113.89
+198,Bryant Ranch Prepack,methylergonovine maleate,Methergine,66.34
+199,Apace Packaging,Enalapril Maleate,Enalapril Maleate,188.47
+200,"Newton Laboratories, Inc.","Aloe, Arg. nit., Arsenicum alb., Belladonna, Benzoicum acidum, Bryonia, Cantharis, Causticum, Equisetum hyemale, Ferrum metallicum, Gelsemium, Ignatia, Kali phos., Lycopodium, Nat. mur., Nitricum ac., Plantago, Pulsatilla, Rhus aromatica , Sabal, Secale, Sepia, Staphysag.,Stramonium, Thyroidinum, Verbascum, Echinacea, Hydrastis",Incontinence,17.34
+201,"Lehigh Valley Respiratory Care, Lancaster",Oxygen,Oxygen,140.74
+202,Kern Medical Inc dba DASCO Home Medical Equipment,Oxygen,Oxygen,124.41
+203,Zydus Pharmaceuticals (USA) Inc.,Carvedilol,Carvedilol,86.91
+204,"Golden State Medical Supply, Inc.",Nifedipine,Nifedipine,30.03
+205,Aurobindo Pharma Limited,Perindopril Erbumine,Perindopril Erbumine,54.18
+206,Procter & Gamble Manufacturing Company,Aluminum Zirconium Octachlorohydrex Gly,Secret Scent Expressions,115.37
+207,KAISER FOUNDATION HOSPITALS,Ibuprofen,IBU,116.15
+208,"Taro Pharmaceuticals U.S.A., Inc.",Oxcarbazepine,Oxcarbazepine,73.67
+209,CONOPCO Inc. d/b/a Unilever,Salicylic Acid,St. Ives,148.44
+210,philosophy,"Zinc Oxide, Titanium Dioxide",supernatural airbrushed canvas broad spectrum spf 15 sunscreen,143.86
+211,"Physicians Total Care, Inc",risperidone,Risperidone,94.83
+212,Walgreen Company,"Avobenzone, Octisalate, Octocrylene",Walgreens Advanced Anti-Wrinkle and Firming Day Cream Broad Spectrum SPF18 Sunscreen,160.71
+213,CHAIN DRUG MARKETING ASSOCIATION INC,Aspirin,Enteric Coated Asprin 81 mg,45.89
+214,"Demoulas Super Markets, Inc",Triclosan,Handsoap,86.96
+215,"Nelco Laboratories, Inc.",Corn Grain,Corn Grain,199.38
+216,Aurobindo Pharma Limited,Amlodipine and Benazepril Hydrochloride,Amlodipine and Benazepril Hydrochloride,85.11
+217,Greenbrier International,Dimethicone,Daily Moisturizing - Oatmeal,174.51
+218,"TONYMOLY CO., LTD.",Glycerin,GALACTOMYCES MAN BOOSTER,19.63
+219,McKesson Contract Packaging,Ibuprofen,Ibuprofen,122.86
+220,Natures Way Holding Co.,MAHONIA AQUIFOLIUM ROOT BARK,PSORIAFLORA,134.61
+221,Lake Erie Medical DBA Quality Care Products LLC,morphine sulfate,Kadian,163.56
+222,Topco,"eucalyptol, menthol, methyl salicylate, thymol",Tartar Control Plus,38.6
+223,Dukal Corporation,Sodium Fluoride,DawnMist Fluoride,179.88
+224,"Golden State Medical Supply, Inc.",Carbamazepine,Carbamazepine,95.72
+225,Emilia Personal Care Inc.,"Titanium Dioxide, Zinc Oxide",Safe Harbor - Natural Sunscreen - Baby and Kids SPF50 Broad Spectrum Sunscreen,78.38
+226,Pure Source Inc.,"METHYL SALICYLATE, MENTHOL, CAPSAICIN",LCDO. ORLANDO RIVERA ARTHRITIS Topical Analgesic,36.12
+227,"SKINFOOD CO., LTD.",TITANIUM DIOXIDE,RED ORANGE JELLY BB,175.22
+228,"Greenbrier International, Inc.",SALICYLIC ACID,Acne Wipes,104.73
+229,Cardinal Health,Polyethylene Glycol 3350,Leader ClearLax,117.63
+230,Apotheca Company,"Passiflora incarnata, Scutellaria lateriflora, Valeriana officinalis, Arsenicum album, Calcarea carbonica, Coffea cruda, Ignatia amara, Kali phosphoricum Lycopus virginicus, Staphysagria",Relaxatone,102.64
+231,Baxter Healthcare Corporation,Fentanyl Citrate,Fentanyl Citrate,57.32
+232,REMEDYREPACK INC.,Lisinopril,Lisinopril,126.51
+233,"Novel Laboratories, Inc.",Misoprostol,Misoprostol,132.08
+234,"Ajou Medics Co., Ltd",salicylic acid,YS Solution Intensive AC Care,195.2
+235,Guthy-Renker LLC,BENZOYL PEROXIDE,Proactiv,158.86
+236,Sandoz Inc,Granisetron,Granisetron,88.36
+237,"JR Cosmetic Co., Ltd",Dimethicone,Milky Dress The White Platinum,97.92
+238,HOMEOLAB USA INC.,"DROSERA ROTUNDIFOLIA, ARSENICUM ALBUM, IPECACUANHA, KALI BICHROMICUM, BELLADONNA, PULSATILLA, MERCURIUS SOLUBILIS",COUGH AND COLD RELIEF,152.03
+239,REMEDYREPACK INC.,Lorazepam,Lorazepam,181.44
+240,"Aphena Pharma Solutions - Tennessee, LLC",Lorazepam,Lorazepam,132.48
+241,Five Below,TRICLOSAN,Vanilla Cupcake Anti Bacterial Foaming Hand,158.91
+242,"Watson Laboratories, Inc.",Nifedipine,Afeditab,168.99
+243,Vi-Jon,Ethyl Alcohol,Hand Sanitizer,27.18
+244,"ABLE C&C CO., LTD.",TITANIUM DIOXIDE,MISA CHO BO YANG BB,107.77
+245,Ventura Corporation LTD,Octinoxate,ESIKA HD COLOR HIGH DEFINITION COLOR SPF 20,19.02
+246,Ther-Rx Corporation,estradiol,Evamist,60.41
+247,Teva Pharmaceuticals USA Inc,Estradiol and Norethindrone Acetate,Mimvey,91.32
+248,A P J Laboratories Limited,"PHENYLEPHRINE HYDROCHLORIDE, MINERAL OIL, PETROLATUM",APJ HEMORRHOIDAL,152.09
+249,Mylan Pharmaceuticals Inc.,budesonide,Budesonide,130.1
+250,sanofi-aventis U.S. LLC,enoxaparin sodium,Lovenox,9.65
+251,PISATAP,"Niacinamide, Adenosine",SHEZA GUSL FIRMING MASK PACK,87.55
+252,"Navarro Discount Pharmacies,LLC",Diphenhydramine HCl,Allergy Relief,114.17
+253,McKesson,Dimethicone,Sunmark Gas relief,64.69
+254,"Nature's Innovation, Inc.",Silicea,Naturasil,58.1
+255,"Hospira, Inc.",FENOLDOPAM MESYLATE,Corlopam,98.63
+256,A-S Medication Solutions LLC,Diflunisal,Diflunisal,132.55
+257,Bryant Ranch Prepack,modafinil,PROVIGIL,29.18
+258,Swan,SODIUM FLUORIDE,Anticavity,102.4
+259,RCS Management Corporation,Oxygen,Oxygen,102.64
+260,Lundbeck LLC,droxidopa,Northera,64.99
+261,"GRIFOLS USA, LLC",Albumin (Human),Plasbumin,164.93
+262,"Preferred Pharmaceuticals, Inc",Terbinafine Hydrochloride,Terbinafine Hydrochloride,122.77
+263,"Asclemed USA, Inc.","marcaine, lidocaine, kenalog, povidone iodine",MLK F1 Kit,165.75
+264,Sandoz Inc,Cefepime Hydrochloride,Cefepime Hydrochloride,156.29
+265,Greenstone LLC,nitroglycerin,NITROGLYCERIN,155.97
+266,"Fenwal, Inc.",Anticoagulant Citrate Phosphate Dextrose Adenine,CPDA-1,104.82
+267,Shanghai Weierya Daily Chemicals Factory,Ethyl Alcohol,Modesa,99.39
+268,"MallyGirl, LLC","TITANIUM DIOXIDE, ZINC OXIDE",mally Face Defender Foundation,23.49
+269,Ventura Corporation LTD,Octinoxate and Oxybenzone,LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15,47.58
+270,"Physicians Total Care, Inc.",PEG-3350 and Electrolytes,PEG-3350 and Electrolytes,23.71
+271,Lange SAS,Salicylic Acid,Perfect Me Serum,174.37
+272,Ecolab Inc.,Surgical Hand Scrub/General Skin Cleanser,Alphadine Scrub,172.96
+273,Laboratoires Clarins S.A.,TITANIUM DIOXIDE,CLARINS Extra-Comfort Broad Spectrum SPF 15 Sunscreen Tint 114,189.8
+274,"Dispensing Solutions, Inc.","Butalbital, Acetaminophen, Caffeine and Codeine Phosphate","Butalbital, Acetaminophen, Caffeine and Codeine Phosphate",101.91
+275,American Sales Company,"Diphenhydramine citrate, Ibuprofen",careone ibuprofen pm,109.09
+276,Cardinal Health,buspirone hydrochloride,Buspirone Hydrochloride,114.05
+277,Midlothian Laboratories,Oxycodone Hydrochloride,Oxycodone Hydrochloride,147.01
+278,REMEDYREPACK INC.,Diclofenac Sodium,Diclofenac Sodium Delayed Release,6.37
+279,Bryant Ranch Prepack,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,192.4
+280,"Asclemed USA, Inc.","Triamcinolone Acetonide, Lidocaine Hydrochloride, Bupivacaine Hydrochloride, Povidine Iodine",MLK F4 Kit,114.21
+281,Energizer Personal Care LLC,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",HAWAIIAN Tropic,127.79
+282,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,lamotrigine,LAMICTAL,17.46
+283,"Cosmetics Institute Technology Co., Ltd.",Allantoin,BIOXIDEA MIRACLE 48 EXCELLENCE GOLD MASK,106.53
+284,Procter & Gamble Manufacturing Company,Stannous Fluoride,Crest Pro-Health,166.31
+285,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Diazepam,Diazepam,62.36
+286,State of Florida DOH Central Pharmacy,Glipizide,Glipizide,156.98
+287,"AvKARE, Inc.",Pentoxifylline,Pentoxifylline,134.38
+288,Zydus Pharmaceuticals USA Inc,Niacin,Niacin,1.17
+289,Laboratoires Clarins S.A.,TITANIUM DIOXIDE,CLARINS Broad Spectrum SPF 15 Titanium Dioxide-Sunscreen Extra-Firming Foundation Tint 103,43.02
+290,Safeway,Diphenhydramine HCl,Allergy Relief,190.84
+291,McKesson,Aspirin,health mart aspirin,108.53
+292,Parke-Davis Div of Pfizer Inc,ATORVASTATIN CALCIUM,Lipitor,185.52
+293,Neutrogena Corporation,"Avobenzone, Octinoxate, and Octisalate",Neutrogena Ultra Gentle Soothing,46.92
+294,CVS Pharmacy,Sennosides,Laxative Pills,62.43
+295,Cardinal Health,Simvastatin,Simvastatin,65.17
+296,Biologische Heilmittel Heel,"ACONITUM NAPELLUS and ARNICA MONTANA ROOT and ATROPA BELLADONNA and BELLIS PERENNIS and CALENDULA OFFICINALIS FLOWERING TOP and MATRICARIA RECUTITA and ECHINACEA, UNSPECIFIED and ECHINACEA PURPUREA and HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK and CALCIUM SULFIDE and HYPERICUM PERFORATUM and MERCURIUS SOLUBILIS and ACHILLEA MILLEFOLIUM and COMFREY ROOT",Traumeel X,182.27
+297,Citron Pharma LLC,Glyburide,Glyburide,83.14
+298,Valu Merchandisers Company,Ibuprofen,Infants Ibuprofen,189.63
+299,"Beach Products, Inc.","Potassium Phosphate, Monobasic and Sodium Phosphate, Monobasic, Anhydrous",K-Phos,150.84
+300,"Sun & Skin Care Research, LLC","octinoxate, octisalate",OP Dark Tanning Xtreme Oil Amplifier SPF4,187.03
+301,Mylan Pharmaceuticals Inc.,risperidone,Risperidone,45.02
+302,Ionx Holdings d/b/a HelloLife,"Aesculus hipp, flos, Ambra, Arsenicum alb, Avena, Baryta carb, Camphora, Cinchona, Cocculus, Coffea cruda, Cypripedium, Gelsemium, Hyoscyamus, Ignatia, Kali brom, Kali phos, Mag carb, Muriaticum ac, Nat phos, Passiflora, Scutellaria, Sulphur, Valeriana, Zinc met",Insomulex,188.37
+303,"Nelco Laboratories, Inc.",Sisal,Sisal,6.29
+304,Aurobindo Pharma Limited,Divalproex Sodium,Divalproex Sodium,51.98
+305,Western Family Foods Inc,"famotidine, calcium carbonate and magnesium hydroxide",acid reducer plus antacid,162.49
+306,NARS Cosmetics,OCTINOXATE and TITANIUM DIOXIDE,NARS FOUNDATION,137.83
+307,International Nature Nutraceuticals,"Menthol, Camphor, Methyl Salicylate",Strain Pain Relieving Cream,158.3
+308,"Warner Chilcott (US), LLC","norethindrone acetate and ethinyl estradiol, ethinyl estradiol and ferrous fumarate",Lo Loestrin Fe,43.2
+309,"Nelco Laboratories, Inc.",Nigrospora sphaerica,Nigrospora sphaerica,118.49
+310,Bare Escentuals Beauty Inc.,Zinc Oxide,Deepest Deep,190.51
+311,"Physicians Total Care, Inc.",Citrate of Magnesium,Citrate of Magnesium,181.26
+312,Greenstone LLC,tolterodine tartrate,Tolterodine Tartrate Extended Release,6.27
+313,Mylan Pharmaceuticals Inc.,prochlorperazine maleate,Prochlorperazine Maleate,26.99
+314,"KATE SOMERVILLE SKINCARE, LLC","AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",BODY GLOW SUNSCREEN,71.29
+315,The Kroger Co.,bacitracin zinc neomycin sulfate polymyxin b sulfate,TRIPLE ANTIBIOTIC,100.78
+316,Purdue Pharma LP,zolpidem tartrate,Intermezzo,154.07
+317,"HANLIM PHARM. CO., LTD.",CARBOXYMETHYLCELLULOSE SODIUM,MEIJER LUBRICATING EYE DROPS,28.91
+318,"Wyeth Pharmaceutical Division of Wyeth Holdings Corporation, a subsidiary of Pfizer Inc.",Pneumococcal 7-valent,Prevnar,115.29
+319,"ALK-Abello, Inc.",FUSARIUM VASINFECTUM,FUSARIUM OXYSPORUM VASINFECTUM,169.7
+320,CONOPCO Inc. d/b/a Unilever,"AVOBENZONE, ENSULIZOLE, OCTICSALATE, OCTOCRYLENE",Simple,4.75
+321,McKesson,"acetaminophen,dextromethorphan HBr, doxylamine succinate",Sunmark nite time,60.86
+322,Conopco Inc. d/b/a Unilever,Aluminum Zirconium Tetrachlorohydrex GLY,Degree,97.27
+323,Lake Erie Medical DBA Quality Care Products LLC,Ciprofloxacin,Ciprofloxacin,136.47
+324,Kmart Corporation,diphenhydramine HCl,Smart Sense Allergy Relief,44.86
+325,"Physicians Total Care, Inc.",Trandolapril,Mavik,26.51
+326,Filo America,Salicylic Acid,Oil-Free Acne Wash,47.5
+327,Walgreen Company,mineral oil,Mineral Oil Lubricant Laxative,197.45
+328,HyVee Inc,Ibuprofen,Ibuprofen,149.33
+329,"BB17, LLC",ETHYL ALCOHOL,Instant Hand Sanitizer Lemon Drop,64.45
+330,American Sales Company,"mineral oil, petrolatum, phenylephrine HCl",careone hemorrhoidal,198.66
+331,"Nelco Laboratories, Inc.",Broccoli,Broccoli,88.03
+332,"Crossing Cultures, LLC dba Goddess Garden","TITANIUM DIOXIDE, ZINC OXIDE",GODDESS GARDEN ORGANICS Sunny Body NATURAL SUNSCREEN BROAD SPECTRUM SPF 30 WATER RESISTANT,133.38
+333,"International Labs, Inc.",Simvastatin,Simvastatin,135.94
+334,Aurobindo Pharma Limited,Sulfamethoxazole and Trimethoprim,Sulfamethoxazole and Trimethoprim,188.16
+335,"Antigen Laboratories, Inc.",Cladosporium herbarum,Cladosporium herbarum,126.9
+336,Topco Associates LLC,Acetaminophen,topcare infants pain and fever,139.1
+337,Neat Feat Products Limited,skin protectant,BabyB BabySaver,102.86
+338,Lake Erie Medical DBA Quality Care Products LLC,Mirtazapine,Mirtazapine,66.95
+339,NorthStar RxLLC,Metoprolol Tartrate and Hydrochlorothiazide,Metoprolol Tartrate and Hydrochlorothiazide,31.86
+340,Tropical International Manufacturing Inc,SODIUM MONOFLUOROPHOSPHATE,Dental plus Extra Menta,50.27
+341,Lake Erie Medical DBA Quality Care Products LLC,Oxymorphone Hydrochloride,Oxymorphone Hydrochloride,132.39
+342,Mylan Institutional Inc.,Bupropion Hydrochloride,Bupropion Hydrochloride,8.52
+343,VersaPharm Incorporated,Isoniazid,Isoniazid,183.53
+344,"Eon Labs, Inc.",Benazepril Hydrochloride and Hydrochlorothiazide,Benazepril Hydrochloride and Hydrochlorothiazide,70.44
+345,Universal holdings I LLC dba Smith Brothers Company,PECTIN,SMITH BROS WILD CHERRY Throat Drops,58.71
+346,Lake Erie Medical DBA Quality Care Products LLC,Atomoxetine,Strattera,171.39
+347,"GRIFOLS USA, LLC",Antihemophilic Factor/von Willebrand Factor Complex (Human),Alphanate,34.39
+348,Prasco Laboratories,atovaquone,Atovaquone,188.62
+349,"Ventura International, LTD","ENSULIZOLE, HOMOSALATE, OCTINOXATE, OXYBENZONE, TITANIUM DIOXIDE",LBEL SUPREMACIE NX JOUR Replenishing Treatment Daytime Face SPF 15 Normal To Oily Skin,41.39
+350,Actavis Inc.,Donepezil hydrochloride,Donepezil hydrochloride,47.34
+351,Clinical Solutions Wholesale,Azithromycin,Azithromycin,92.09
+352,"Roberts Oxygen Company, Inc.",Carbon Dioxide-Oxygen Mixture,Carbon Dioxide-Oxygen Mixture,32.07
+353,Mary Kay Inc.,"octinoxate, octocrylene, oxybenzone, zinc oxide",Mary Kay Tinted Lip Balm Sunscreen SPF 15 Rose,166.07
+354,H E B,"Acetaminophen, diphenhydramine hydrochloride, phenylephrine hydrochloride",flu and severe cold and cough,39.17
+355,TRP Company,"ARSENIC TRIOXIDE - HISTAMINE DIHYDROCHLORIDE - DERMATOPHAGOIDES PTERONYSSINUS - MAGNESIUM PHOSPHATE, DIBASIC TRIHYDRATE - STRYCHNOS NUX-VOMICA SEED - ASPIDOSPERMA QUEBRACHO-BLANCO BARK - SUPLHUR -",Asthma Therapy,167.8
+356,Carilion Materials Management,carvedilol phosphate,COREG,120.45
+357,Ecolab Inc.,Antiseptic handwash,Eco-Clean Elite Foam Hand Sanitizer,172.58
+358,Jubilant HollisterStier LLC,Pork Sus sp.,"Food - Animal Products and Poultry Products, Pork Sus sp.",64.79
+359,"Physicians Total Care, Inc.",Diphenoxylate Hydrochloride and Atropine Sulfate,Diphenoxylate Hydrochloride and Atropine Sulfate,135.88
+360,"Genentech, Inc.",Pertuzumab,PERJETA,158.05
+361,Pfizer Laboratories Div Pfizer Inc,Pamidronate Disodium,Pamidronate Disodium,185.49
+362,"Preferred Pharmaceuticals, Inc.",Phentermine Hydrochloride,Phentermine Hydrochloride,22.4
+363,Dr. Reddy's Laboratories Limited,Glycopyrrolate,Glycopyrrolate,63.17
+364,"Allergy Laboratories, Inc.",peppermint,PEPPERMINT,148.27
+365,H E B,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Rx Act Cold Head Congestion,186.67
+366,"Lil' Drug Store Products, Inc.",Guaifenesin and Dextromethorphan Hydrobromide,Mucinex DM,145.35
+367,Mylan Pharmaceuticals Inc.,estradiol,Estradiol,126.84
+368,Westwood Manufacturing,HYDROXYZINE PAMOATE,HYDROXYZINE PAMOATE,77.89
+369,"JUBILANT CADISTA PHARMACEUTICALS, INC.",cyclobenzaprine hydrochloride,cyclobenzaprine hydrochloride,104.22
+370,Procter & Gamble Manufacturing Co.,Pyrithione Zinc,Head and Shoulders,109.27
+371,CarePluss Pharma S.A. de C.V.,Sulphur,Treatment 101,9.05
+372,Colgate-Palmolive Company,Aluminum zirconium tetrachlorohydrex gly,Speed Stick,53.06
+373,"Libertas Pharma, Inc.","Multi Vitamin, Iron and Fluoride","Multi Vitamin, Iron and Fluoride",11.57
+374,HOMEOLAB USA INC,"CHAMOMILLA, ARNICA MONTANA, BORAX, HYPERICUM PERFORATUM",TEETHING KIDS RELIEF,10.05
+375,GlaxoSmithKline Consumer Healthcare LP,nicotine polacrilex,Nicorette,153.54
+376,AvPAK,Famciclovir,Famciclovir,50.14
+377,"Dispensing Solutions, Inc.",LISINOPRIL AND HYDROCHLOROTHIAZIDE,LISINOPRIL AND HYDROCHLOROTHIAZIDE,142.42
+378,Stiefel Laboratories Inc,clindamycin phosphate,EVOCLIN,151.64
+379,Apotheca Company,"Adrenocorticotrophin, Agnus castus, Baryta carbonica, Calcarea carbonica, Iodium, Lac caninum, Natrum muriaticum, Phosphoricum acidum, Sepia, Thyroidinum suis,",Anpitua Stim,41.65
+380,"Fresenius Kabi USA, LLC",GANCICLOVIR SODIUM,Ganciclovir,168.1
+381,"NCS HealthCare of KY, Inc dba Vangard Labs",Metformin Hydrochloride,Metformin Hydrochloride,106.25
+382,Burkhart Dental Supply Inc,Sodium Fluoride,Burkhart,163.95
+383,Western Family Foods Inc,Ibuprofen,ibuprofen,96.07
+384,Kmart Corporation,Caffeine,Smart Sense Stay Awake,147.7
+385,Jafra Cosmetics International Inc,"Octinoxate, Octisalate, Oxybenzone",Medium Skin Defense Concealer Broad Spectrum SPF 15,103.8
+386,"Native Remedies, LLC","Ferrum phos, Mentha pip, Nat mur, Nat phos, Nux vom, Zingiber",Good Morning Mama,44.83
+387,Major Pharmaceuticals,Pseudoephedrine HCl and Tripolidine,Aprodine,123.88
+388,DZA Brands LLC,"phenylephrine hcl, brompheniramine maleate",healthy accents cold and allergy,39.73
+389,BioMarin Pharmaceutical Inc.,galsulfase,NAGLAZYME,59.79
+390,"Johnson & Johnson Healthcare Products, Division of McNEIL-PPC, Inc.",Sodium Fluoride,Listerine HealthyWhite Restoring Clean Mint,156.74
+391,Ole Henriksen,"Avobenzone, Homosalate, Octinoxate, Octisalate, Octocrylene",perfect truth cc broad spectrum SPF 30 sunscreen,158.31
+392,STAT RX USA LLC,TAMSULOSIN HYDROCHLORIDE,TAMSULOSIN HYDROCHLORIDE,110.89
+393,Zandi LLC,Aspirin,Adult Low Dose Aspirin,129.84
+394,"Taro Pharmaceuticals U.S.A., Inc.",Fluconazole,Fluconazole,147.65
+395,"PD-Rx Pharmaceuticals, Inc.",Escitalopram,Escitalopram,172.98
+396,"Hospira, Inc",Ceftriaxone Sodium,Ceftriaxone Sodium,29.29
+397,"The Man Can, LLC",ETHYL ALCOHOL,Anti-Bacterial Hand Gel Pink Lemonade,64.54
+398,Mylan Pharmaceuticals Inc.,nifedipine,Nifedipine,110.72
+399,Lake Erie Medical DBA Quality Care Products LLC,venlafaxine hydrochloride,Effexor,122.27
+400,"AMAROS CO., LTD.",Allantoin,Seaweed Aqua Massage,187.29
+401,Ventura Corporation LTD.,Octinoxate,LBEL EFFET PARFAIT filling effect foundation SPF 10 - MEDIUM 6,19.36
+402,"RockHealth, Inc","Dextromethorphan HBr, Guaifenesin",Libera Tos,99.36
+403,"Energique, Inc.","Fucus Vesiculosus, Spongia Tosta, Glandula Suprarenalis Suis, Pituitaria Glandula (Suis), Thyroidinum (Suis), Bromium, Calcarea Carbonica",Thyropar,160.43
+404,"JUBILANT CADISTA PHARMACEUTICALS, INC.",cyclobenzaprine hydrochloride,cyclobenzaprine hydrochloride,6.31
+405,REMEDYREPACK INC.,Hydrocodone Bitartrate and Acetaminophen,Hydrocodone Bitartrate and Acetaminophen,136.78
+406,Cardinal Health,CEFEPIME HYDROCHLORIDE,MAXIPIME,181.97
+407,"NATURE REPUBLIC CO., LTD.",DIMETHICONE,BETTER THAN NATURE EYE ESSENCE,154.55
+408,Meijer Distribution Inc,Acetaminophen,pain relief,76.04
+409,L. Perrigo Company,Ranitidine,Acid Reducer,35.76
+410,"Eon Labs, Inc.",Quinidine Sulfate,Quinidine Sulfate,164.4
+411,"BioActive Nutritional, Inc.","Aralia quinquefolia, Avena sativa, Damaina, L-Arginne, Epimedium, Glutathion, L-Leucine, L-Ornithine, Valine, Testosterone, Sabal serrulata, Sepia,",Strength M,90.52
+412,Rebel Distributors Corp,tapentadol hydrochloride,NUCYNTA,163.04
+413,HOMEOLAB USA INC,GELSEMIUM SEMPERVIRENS,GELSEMIUM SEMPERVIRENS,198.15
+414,"PhotoMedex, Inc","Homosalate, Octocrylene, Octisalate, Avobenzone",Neova Day Therapy,74.1
+415,Kinray,PHENAZOPYRIDINE HYDROCHLORIDE,Preferred Plus Urinary Pain Relief,150.94
+416,Aurobindo Pharma Limited,Quetiapine Fumarate,Quetiapine Fumarate,73.89
+417,"Chattem, Inc.",Menthol,Icy Hot Naturals,10.1
+418,"Elizabeth Arden, Inc",OCTINOXATE and TITANIUM DIOXIDE,FLAWLESS FINISH PERFECTLY NUDE MAKEUP BROAD SPECTRUM SUNSCREEN SPF 15 SHADE NATURAL,12.43
+419,SHISEIDO AMERICAS CORPORATION,"OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",SHISEIDO SHEER AND PERFECT COMPACT (REFILL),153.81
+420,"Physicians Total Care, Inc.",Metolazone,Metolazone,153.24
+421,"MedActive Oral Pharmaceuticals, LLC.",Stannous Fluoride,MedActive Patient Friendly,78.35
+422,"Dolgencorp, LLC","acetaminophen, dextromethorphan hbr, guaifenesin, phenylephrine hcl",DG Health Cold and Flu Relief,195.35
+423,Cadila Healthcare Limited,PROPRANOLOL HYDROCHLORIDE,PROPRANOLOL HYDROCHLORIDE,20.73
+424,"Stephen L. LaFrance Pharmacy, Inc.",Ibuprofen,Infants Ibuprofen,161.38
+425,Darby Dental Supply Co Inc,Sodium Fluoride,Darby,38.71
+426,"Cruising Chrome Cosmetics, LLC","Octinoxate, Oxybenzone",Chopper Chap Lip Balm,138.6
+427,International Wholesale Inc.,WHITE PETROLEUM,Petroleum Jelly,177.33
+428,Lineage Therapeutics,Dextroamphetamine Sulfate,Dextroamphetamine Sulfate,95.69
+429,Rebel Distributors Corp,Nortriptyline Hydrochloride,Nortriptyline Hydrochloride,199.16
+430,Cardinal Health,Diphenhydramine HCl,Diphenhydramine HCl,185.82
+431,"BioActive Nutritional, Inc.",Progesterone,Natural Progesterone,130.38
+432,McKesson Contract Packaging,Simvastatin,Simvastatin,171.04
+433,"ALK-Abello, Inc.",Red Mulberry,MORUS RUBRA POLLEN,77.33
+434,Pacific Word Corporation,BENZALKONIUM CHLORIDE,WOODWARDS HANDCLENS FOAMING SANITIZER COLOR AND FRAGRANCE FREE,187.32
+435,Mylan Pharmaceuticals Inc.,atorvastatin calcium,Atorvastatin Calcium,115.46
+436,Cardinal Health,digoxin,LANOXIN,4.36
+437,CVS Pharmacy,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",daytime nighttime,139.05
+438,"Exelan Pharmaceuticals, Inc.",Amlodipine besylate,Amlodipine besylate,80.01
+439,Sun Pharmaceutical Industries Limited,Divalproex Sodium,Divalproex Sodium,92.99
+440,Aurobindo Pharma Limited,Donepezil Hydrochloride,Donepezil Hydrochloride,174.08
+441,STAT RX USA LLC,"BUTALBITAL, ASPIRIN, AND CAFFEINE","BUTALBITAL, ASPIRIN, AND CAFFEINE",60.81
+442,Naterra International INC.,Zinc Oxide,Baby Magic Medicated Patty Cake,48.6
+443,Aurobindo Pharma Limited,Carvedilol,Carvedilol,127.69
+444,"Professional Disposables International, Inc.",providone iodine,PVP Iodine Prep Swabstick,66.02
+445,"Ningbo Correway Cosmetics Co., Ltd.",Glycerin,Correway Personal Lubricant,39.75
+446,"H.J. Harkins Company, Inc.",Ampicillin,Ampicillin,18.33
+447,REMEDYREPACK INC.,Alprazolam,Alprazolam,121.65
+448,Teva Pharmaceuticals USA Inc,Nadolol,Nadolol,149.62
+449,Areva Pharmaceuticals Inc.,Pamidronate Disodium,Pamidronate Disodium,21.38
+450,Rebel Distributors Corp,lansoprazole,Lansoprazole,40.36
+451,"Pharmaceutical Associates, Inc.",LEVETIRACETAM,LEVETIRACETAM,191.89
+452,"Onpharma, Inc.",Sodium Bicarbonate,Sodium Bicarbonate,27.77
+453,Discount Drug Mart,Ibuprofen,Ibuprofen,130.5
+454,Roerig,penicillin G potassium,Pfizerpen,5.67
+455,Premier Value,permethrin,Lice Treatment,189.73
+456,Space Brands Limited,Titanium Dioxide and Octinoxate,Eve Lom Radiance Lift Foundation SPF 15,2.16
+457,"PD-Rx Pharmaceuticals, Inc.",Levothyroxine Sodium,Levothyroxine Sodium,11.56
+458,"Pharmacist Pharmaceutical, LLC",methylergonovine maleate,methylergonovine maleate,67.31
+459,"EQUATE (Walmart Stores, Inc.)",DOCUSATE SODIUM,Stool Softener,10.81
+460,"Physicians Total Care, Inc.",Azithromycin,Azithromycin,32.62
+461,Lake Erie Medical DBA Quality Care Products LLC,oxycodone hydrochloride and acetaminophen,OXYCODONE AND ACETAMINOPHEN,177.51
+462,"Cover FX Skin Care, Inc.",SALICYLIC ACID,Cover Fx BB Gel Mattfying Anti-Blemish N Medium,198.58
+463,Cadila Pharmaceuticals Limited,hydralazine hydrochloride,HYDRALAZINE HYDROCHLORIDE,50.62
+464,Teva Select Brands,Fenofibrate,Lofibra,115.28
+465,Ventura Corporation LTD,Octinoxate and Oxybenzone,LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15,20.36
+466,Cadila Healthcare Limited,Paroxetine Hydrochloride,Paroxetine,179.97
+467,Hannaford Brothers Company,Acetaminophen,pain reliever,4.57
+468,"Liddell Laboratories, Inc.","Arsnicum Album, Carduus Marianus, Hepar Suis, Lung Suis, Pancreas Suis, Radium Bromatum, Serum Anguillae, Terebinthina",CHEMICALS,151.67
+469,"Amneal-Agila, LLC",Idarubicin Hydrochloride,Idarubicin Hydrochloride,2.68
+470,Cardinal Health,Diphenhydramine Hydrochloride,Diphenhydramine Hydrochloride,147.66
+471,Cardinal Health,Sodium Bicarbonate,Sodium Bicarbonate,154.74
+472,Neutrogena Corporation,Titanium Dioxide,Neutrogena Nourishing Long Wear Makeup Tone Correcting Complex Sunscreen Broad Spectrum SPF20,62.86
+473,NorthStar RxLLC,Fluoxetine,Fluoxetine,176.93
+474,"Solco Healthcare US, LLC",donepezil hydrochloride,donepezil hydrochloride,154.76
+475,American Health Packaging,Diltiazem Hydrochloride,Diltiazem Hydrochloride,139.87
+476,"NATURE REPUBLIC CO., LTD.",DIMETHICONE,TRUFFLE EX WRINKLE EYE,132.68
+477,McKesson Contract Packaging,Isosorbide Mononitrate,Isosorbide Mononitrate,132.3
+478,"Kareway Product, Inc.",Oxymetazoline HCl,Nasal Decongestant,74.6
+479,"Physicians Total Care, Inc.",furosemide,Furosemide,128.69
+480,"Allergy Laboratories, Inc.",tuna,TUNA,75.09
+481,Jubilant Cadista Pharmaceuticals Inc.,Terazosin Hydrochloride,Terazosin,121.08
+482,Ecolab Inc.,Alcohol,Ecolab,45.76
+483,"Hospira, Inc",Piperacillin and Tazobactam,Piperacillin and Tazobactam,61.71
+484,Bayer HealthCare Pharmaceuticals Inc.,Levonorgestrel,Skyla,137.34
+485,"Blenheim Pharmacal, Inc.",Acyclovir,Acyclovir,73.97
+486,"Lotus Brands, Inc.",ZINC OXIDE,Beauty Without Cruelty - Broad Spectrum SPF 17,9.99
+487,Kaiser Foundation Hospitals,BENZOYL PEROXIDE,kaiser permanente benzoyl peroxide,199.86
+488,Summers Laboratories Inc,COAL TAR,TARSUM PROFESSIONAL,38.86
+489,RITE AID CORPORATION,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Rite Aid Sunscreen,117.04
+490,The Body Shop Wake Forest,"Octinoxate, Octisalate, and Titanium Dioxide",08 Balancing Foundation,54.55
+491,"Nelco Laboratories, Inc.",Curly Dock,Curly Dock,19.96
+492,Rejoice International,Salicylic Acid,Oil-Free Foaming Acne Wash Facial Cleanser,136.34
+493,State of Florida DOH Central Pharmacy,fluoxetine hydrochloride,Fluoxetine,12.39
+494,"Blenheim Pharmacal, Inc.",METHADONE HYDROCHLORIDE,METHADONE HYDROCHLORIDE,159.02
+495,"Nelco Laboratories, Inc.",Chick Pea,Chick Pea,63.14
+496,Aurobindo Pharma Limited,Rizatriptan Benzoate,Rizatriptan Benzoate,45.09
+497,Mission Pharmacal Company,"SULFACETAMIDE SODIUM, SULFUR",Avar Cleansing Pads,32.86
+498,Sandoz Inc,Piperacillin and Tazobactam,Piperacillin and Tazobactam,183.14
+499,"PD-Rx Pharmaceuticals, Inc.",Diazepam,Diazepam,22.9
+500,PUR MINERALS,Titanium Dioxide,4 in 1 Pressed Mineral SPF 15 Tan,76.41
+501,"Quest Products, Inc.",Lidocaine Hydrochloride and Benzalkonium Chloride,Alocane Plus,153.93
+502,"Paddock Laboratories, LLC",Activated Charcoal,Actidose,144.5
+503,"Nelco Laboratories, Inc.",Peanut,Peanut,145.06
+504,Hikma Pharmaceutical,Lamotrigine,Lamotrigine,62.5
+505,"American Oxygen Company, Inc",OXYGEN,OXYGEN,73.38
+506,"Blu Pharmaceuticals, LLC",Simvastatin,Simvastatin,34.13
+507,"KVK-Tech, Inc.",Hydroxyzine Hydrochloride,Hydroxyzine Hydrochloride,28.85
+508,"WG Critical Care, LLC",Nafcillin,Nafcillin,188.82
+509,Rite Aid,Ranitidine,Non-Prescription Strength Acid Reducer,164.48
+510,Mylan Pharmaceuticals Inc.,morphine sulfate,Morphine Sulfate,122.14
+511,Qualitest Pharmaceuticals,potassium chloride,Potassium Chloride,173.73
+512,Winthrop U.S.,Irbesartan and Hydrochlorothiazide,Irbesartan and Hydrochlorothiazide,53.66
+513,CVS Pharmacy,"dextromethorphan HBr, guaifenesin, phenylephrine HCl",Tussin CF,173.66
+514,Carilion Materials Management,Isradipine,Isradipine,150.31
+515,"Zep, Inc",Benzethonium Chloride,Zep Non Alcohol Foam Sanitizer,87.23
+516,The Mentholatum Company,Salicylic acid,Phisoderm Anti-Blemish Gel Cleanser,97.63
+517,Cadila Healthcare Limited,lansoprazole,lansoprazole,167.98
+518,"Nature's Innovation, Inc.","Arnica montana, Capsicum annum, Crotalus horridus, Lachesis muta, Naja tripudians",CobraZol,174.43
+519,Amerisource Bergen,"Acetaminophen, diphenhydramine hydrochloride, phenylephrine hydrochloride",good neighbor pharmacy flu and severe cold and cough,1.47
+520,Zenith Medicosm SL,OCTINOXATE,Calcium,36.73
+521,"Physicians Total Care, Inc.",minoxidil,MINOXIDIL,14.45
+522,Pfizer Laboratories Div Pfizer Inc,MORPHINE SULFATE and NALTREXONE HYDROCHLORIDE,EMBEDA,67.47
+523,B. Braun Medical Inc.,"DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE",Potassium Chloride in Dextrose and Sodium Chloride,58.45
+524,Cardinal Health,Terazosin Hydrochloride Anhydrous,Terazosin Hydrochloride Anhydrous,198.48
+525,Gen-Source Rx,Sulfamethoxazole and Trimethoprim,Sulfamethoxazole and Trimethoprim,98.65
+526,Qualitest Pharmaceuticals,Montelukast Sodium,Montelukast Sodium,196.23
+527,Pfizer Laboratories Div Pfizer Inc,doxycycline hyclate,Vibra-Tabs,39.84
+528,"Allergy Laboratories, Inc.",artemisia vulgaris pollen,COMMON MUGWORT POLLEN,193.69
+529,HEB,ETHYL ALCOHOL,HAND SANITIZER,117.5
+530,Ricola USA Inc.,MENTHOL,NATURAL LEMON MINT HERB THROAT DROPS,28.96
+531,GlaxoSmithKline LLC,fondaparinux sodium,ARIXTRA,74.52
+532,"Natural Creations, Inc.","American Ginseng, Black Cohosh, Spigelia Anthelmia, Silver Nitrate, Arsenic Trioxide, Gold, Strychnos Ignatti Seed, Lachesis Muta Venom, Lycopodium Clavatum Spore, Sodium Chloride, Phosphoric Acid, Platinum, Pulsatilla Vulgaris, Sepia Officinalis Juice, Thuja Occidentalis Leafy Twig,",DEPRESSION,51.24
+533,"Chain Drug Consortium, LLC",LOPERAMIDE HYDROCHLORIDE,Loperamide HCl,121.2
+534,TELLURIAN,ZINC OXIDE,BABY DIAPER,119.92
+535,AMERICAN SALES COMPANY,TRICLOSAN,CARE ONE,19.1
+536,WOCKHARDT LIMITED,RANITIDINE,RANITIDINE,86.08
+537,"Nelco Laboratories, Inc.",Wingscale,Wingscale,108.44
+538,bryant ranch prepack,Phendimetrazine Tartrate,Phendimetrazine Tartrate,162.72
+539,"DLC Laboratories, Inc",BENZALKONIUM CHLORIDE,Tincture Merthiolate,137.96
+540,"Alcon Laboratories, Inc.","balanced salt solution enriched with bicarbonate, dextrose, and glutathione",BSS PLUS,186.87
+541,Target Corporation,Loratadine,up and up allergy relief,106.95
+542,"ALK-Abello, Inc.",Elm Cedar,ULMUS CRASSIFOLIA POLLEN,190.47
+543,Sandoz Inc,Lorazepam,Lorazepam,154.92
+544,Rite Aid Corporation,Hydrocortisone,Anti Itch,46.92
+545,"Liddell Laboratories, Inc.","Arnica Montana, Mercurius Corrosivus, Sulphur Iodatum, Thuja Occidentalis, Urtica Urens,",Vaccines,145.56
+546,Qualitest Pharmaceuticals,Diphenhydramine Hydrochloride,Q-DRYL,144.96
+547,Combe Incorporated,benzocaine and menthol,Cepacol Sore Throat Maximum Numbing Honey Lemon,177.37
+548,Guthy-Renker LLC,ZINC OXIDE,Sheer Cover Mineral Foundation,63.67
+549,Major Pharmaceuticals,Risperidone,Risperidone,16.52
+550,KJI Industrial Co Ltd,TOPICAL STARCH,Rose Sap Patch,58.94
+551,State of Florida DOH Central Pharmacy,Simvastatin,Simvastatin,11.47
+552,Medi-Physics Inc.,TECHNETIUM TC-99M SODIUM PERTECHNETATE,Technetium Tc99m Generator,108.79
+553,"Arbonne International, LLC",Zinc Oxide,Perfecting Liquid Foundation Buff,1.4
+554,KAISER FOUNDATION HOSPITALS,Hydrocodone Bitartrate And Acetaminophen,Hydrocodone Bitartrate And Acetaminophen,73.19
+555,Apotheca Company,"Human chorionic gonadortopin,",Smart HCG,68.38
+556,"Physicians Total Care, Inc.",LEVOTHYROXINE SODIUM,Levothroid,54.09
+557,GlaxoSmithKline LLC,fluticasone furoate,VERAMYST,165.4
+558,Mylan Pharmaceuticals Inc.,ropinirole,Ropinirole Hydrochloride,108.52
+559,"US MedSource, LLC",SODIUM BICARBONATE,Sodium Bicarbonate,95.0
+560,"Lupin Pharmaceuticals, Inc.",Amlodipine Besylate,Amlodipine Besylate,163.01
+561,Home Health,SALICYLIC ACID,Home Health Everclean Antidandruff,181.88
+562,State of Florida DOH Central Pharmacy,GLIPIZIDE,Glipizide,108.66
+563,Purdue Pharma LP,zolpidem tartrate,Intermezzo,114.04
+564,"Geri-Care Pharmaceuticals, Corp","aluminum hydroxide, magnesium hydroxide, dimethicone",GERI-LANTA MAXIMUM STRENGTH,183.66
+565,"Roxane Laboratories, Inc.",Irbesartan,Irbesartan,142.77
+566,REMEDYREPACK INC.,WATER,Bacteriostatic Water,108.95
+567,Rebel Distributors Corp.,BuPROPion Hydrochloride,BuPROPion Hydrochloride,197.11
+568,Wal-Mart Stores Inc,Loperamide Hydrochloride,Equate anti diarrheal,159.18
+569,MEGASOL COSMETIC GMBH,DIMETHICONE,EROS CLASSIC SILICONE BODYGLIDE,33.56
+570,"EKR Therapeutics, Inc.",reteplase,Retavase,137.44
+571,King Bio Inc.,"Allium cepa, Ambrosia artemisiaefolia, Dulcamara, Euphrasia officinalis, Histaminum hydrochloricum, Kali muriaticum, Naphthalinum, Natrum muriaticum",Allergies Formula,166.46
+572,"PD-Rx Pharmaceuticals, Inc.",Alprazolam,Alprazolam,111.74
+573,"Preferred Pharmaceuticals, Inc","polymyxin B sulfate, trimethoprim sulfate",POLYMYXIN B SULFATE and TRIMETHOPRIM SULFATE,41.33
+574,Merck Sharp & Dohme Corp.,Haemophilus b Conjugate Vaccine (Meningococcal Protein Conjugate),PedvaxHIB,145.62
+575,"Preferred Pharmaceuticals, Inc.",Theophylline,Theophylline,192.6
+576,"Glenmark Generics Inc., USA",ropinirole,ropinirole,103.62
+577,Apotex Corp.,Carbidopa and Levodopa,Carbidopa and Levodopa,183.5
+578,Meijer,Acetaminophen,Childrens Mapap,106.19
+579,"Dispensing Solutions, Inc.",Levothyroxine Sodium,Synthroid,193.22
+580,"EKR Therapeutics, Inc.",reteplase,Retavase,55.99
+581,Clinical Solutions Wholesale,promethazine hydrochloride,promethazine hydrochloride,161.55
+582,"Newton Laboratories, Inc.","Antimon. crud., Bryonia, Calc.carb., Causticum, Dulcamara, Graphites, Lycopodium, Merc. sulph. rub., Nat. carb., Nitricum ac., Nux vom., Rhus toxicodendron, Sabina, Sepia, Silicea, Staphysag., Sulphur, Thuja occ., Taraxacum",Warts - Moles - Skin Tags,123.48
+583,"Allergy Laboratories, Inc.",ligustrum vulgare pollen,PRIVET POLLEN,155.21
+584,McKesson Medical-Surgical,Sodium Monofluorophosphate,McKesson Fluoride,98.56
+585,Uriel Pharmacy Inc.,Anagallis Taraxacum,Anagallis Taraxacum,13.79
+586,STAT Rx USA LLC,KETOTOLAC TROMETHAMINE,KETOTOLAC TROMETHAMINE,47.41
+587,Tri-Coastal Design Company Inc.,Ethyl Alcohol,Waterless Anti-Bacterial Hand Cleanser,153.49
+588,"KVK-Tech, Inc.",Phentermine Hydrochloride,Phentermine Hydrochloride,116.08
+589,Merck Sharp & Dohme Corp.,pneumococcal vaccine polyvalent,PNEUMOVAX 23,26.09
+590,"Natural Creations, Inc.","Calcarea Fluorica, Activated Charcoal, Hamamelis Virginiana Root Bark / Stem Bark, Lachesis Muta Venom, Lycopodium Clavatum Spore, Pulsatilla Vulgaris, Claviceps Purpurea Sclerotium, Delphinium Staphisagrea Seed, Zinc",Varico HP,74.4
+591,Teva Pharmaceuticals USA Inc,Meloxicam,Meloxicam,64.7
+592,"Teva Women's Health, Inc.",levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets,QUARTETTE,35.54
+593,"Personal Care Products, LLC",TRICLOSAN,Personal Care Antibacterial Hand - Fresh Melon,84.19
+594,TARGET Corporation,Diphenhydramine HCl,Sleep Aid,115.48
+595,Keltman Pharmaceuticals Inc.,methylprednisolone,Methylprednisolone,61.48
+596,"Physicians Total Care, Inc.",granisetron,Sancuso,78.47
+597,"Allergy Laboratories, Inc.",artemisia frigida pollen,PRAIRIE SAGE POLLEN,37.42
+598,"G&W Laboratories, Inc.",Bacitracin,Bacitracin,122.01
+599,Qualitest Pharmaceuticals,Docusate sodium,DocQLace,37.54
+600,REMEDYREPACK INC.,abacavir sulfate,ZIAGEN,172.7
+601,Aidarex Pharmaceuticals LLC,diphenoxylate hydrochloride and atropine sulfate,Diphenoxylate Hydrochloride and Atropine Sulfate,190.33
+602,Melaleuca Inc.,"Avobenzone 2.5%, Octinoxate 6%, Oxybenzone 3%",Sun Shades Lip Balm,179.53
+603,DIRECT RX,PREDNISONE,PREDNISONE,98.79
+604,"Ventura Corporation, Ltd.",ALUMINUM SESQUICHLOROHYDRATE,ESIKA,41.46
+605,REMEDYREPACK INC.,Ciprofloxacin Hydrochloride,Ciprofloxacin Hydrochloride,177.57
+606,Cantrell Drug Company,Morphine Sulfate,Morphine Sulfate,37.64
+607,VIATREXX BIO INCORPORATED,Pork Collagen,Collagen,172.16
+608,"Ingenus Pharmaceuticals, LLC",metoprolol tartrate,Metoprolol tartrate,109.84
+609,Performance Health Inc.,MENTHOL,Perform,1.81
+610,Neutrogena Corporation,"Homosalate, Octinoxate, Octisalate, and Oxybenzone",Neutrogena Age Defense Anti Oxidant Daily Moisturizer,19.49
+611,"DOLGENCORP, LLC",Ethyl Alcohol,Hand Sanitizer,33.39
+612,Hampton Homecare,OXYGEN,OXYGEN,116.87
+613,"Geiss, Destin & Dunn, Inc (Goodsense)","Acetaminophen, Diphenhydramine HCl",Pain Relief PM,184.36
+614,Unit Dose Services,Carvedilol,Carvedilol,178.62
+615,King Bio Inc.,"Aesculus carnea, flos, Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Antimonium crudum, Avena sativa, Chamomilla, Colocynthis, Crocus sativus, Ferrum metallicum, Impatiens glandulifera, flos, Kali carbonicum, Natrum muriaticum, Populus tremula, flos, Staphysagria, Thyroidinum",Easily Angered,45.46
+616,Guthy-Renker LLC,SALICYLIC ACID,Proactiv Clear Zone Body Pads,179.11
+617,Health Mart,Loratadine and Pseudoephedrine Sulfate,Loratadine and Pseudoephedrine Sulfate,193.17
+618,McKesson Contract Packaging,Gabapentin,Gabapentin,25.98
+619,Actavis Elizabeth LLC,Pilocarpine hydrochloride,Pilocarpine hydrochloride,21.67
+620,BF ASCHER AND CO INC,TROLAMINE SALICYLATE,MOBISYL,97.87
+621,"Golden State Medical Supply, Inc.",Hydroxyzine,Hydroxyzine Hydrochloride,12.03
+622,"Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.","ESTROGENS, CONJUGATED",Premarin,188.34
+623,"Lupin Pharmaceuticals, Inc.",norethindrone and ethinyl estradiol,Vyfemla,16.02
+624,Bristol-Myers Squibb Pharma Company,warfarin sodium,COUMADIN,95.5
+625,"MSD Consumer Care, Inc.",Octinoxate and Octocrylene,Bain de Soleil,195.46
+626,"Physicians Total Care, Inc.",triamcinolone acetonide,Kenalog-40,82.86
+627,"Hospira, Inc.",GEMCITABINE HYDROCHLORIDE,Gemcitabine,195.51
+628,"Upsher-Smith Laboratories, Inc.",potassium citrate,Potassium Citrate,161.39
+629,"CVS PHARMACY, INC.",MENTHOL,PAIN RELIEVING PATCH ULTRA STRENGTH,48.7
+630,"ALK-Abello, Inc.",California Live Oak Coast,QUERCUS AGRIFOLIA POLLEN,154.55
+631,"Upsher-Smith Laboratories, Inc.",Amiodarone Hydrochloride,Pacerone,136.15
+632,"Nelco Laboratories, Inc.",Cultivated Oat,Cultivated Oat,88.65
+633,ARAMIS INC.,"AVOBENZONE, OCTINOXATE, and OCTISALATE",LAB SERIES SKINCARE FOR MEN DAILY MOISTURE DEFENSE BROAD SPECTRUM SPF 15,178.84
+634,North Safety Products,"Benzalkonium Chloride, Benzocaine",North First Aid Antiseptic,132.06
+635,"Physicians Total Care, Inc.",Lansoprazole,Lansoprazole,143.86
+636,HyVee Inc,Naproxen sodium,Naproxen Sodium,68.84
+637,Cardinal Health,clonazepam,Clonazepam,32.5
+638,Plymouth Pharmaceuticals Inc,"Nickel Sulfate, Potassium Bromide, Sodium Bromide, Zinc Sulfate Anhydrous, and Sulfur",Acunol,69.8
+639,Publix Super Markets Inc,Ibuprofen,ibuprofen,173.29
+640,"Ferndale Laboratories, Inc.",hydrocortisone acetate and pramoxine hydrochloride,Analpram E,133.7
+641,Viny Health and Beauty Inc,Petrolatum,SOFT AND PRECIOUS NURSERY,93.91
+642,B. Braun Medical Inc.,"Hydrous Dextrose, Sodium Chloride, Sodium Gluconate, Sodium Acetate Trihydrate, Potassium Chloride and Magnesium Chloride Hexahydrate",Isolyte S in Dextrose,62.93
+643,"APP Pharmaceuticals, LLC",PENICILLIN G POTASSIUM,Penicillin G Potassium,57.32
+644,Uriel Pharmacy Inc.,Rose Copper Warming Support,Rose Copper Warming Support,152.08
+645,Cardinal Health,Acetaminophen and Codeine Phosphate,Acetaminophen and Codeine Phosphate,167.17
+646,Mission Hills S.A de C.V,SODIUM MONOFLUOROPHOSPHATE,Colgate,81.14
+647,Proficient Rx LP,Hydrochlorothiazide,Hydrochlorothiazide,189.02
+648,REMEDYREPACK INC.,Ibuprofen,Ibuprofen,99.72
+649,EMINENCE BIOTECH CORPORATION LIMITED,MENTHOL,EB302 ARTHRITIS RELIEF,70.98
+650,St Marys Medical Park Pharmacy,TOPIRAMATE,TOPIRAMATE,127.83
+651,"PD-Rx Pharmaceuticals, Inc.",valsartan,Diovan,181.82
+652,Neutrogena Corporation,Salicylic Acid,Neutrogena,135.92
+653,"Rejoice International, Inc.",Ethyl Alcohol,Instant Hand Sanitizer - Clear,12.5
+654,"MSD Consumer Care, Inc.","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Coppertone KIDS,92.18
+655,"Aphena Pharma Solutions - Tennessee, Inc.",Oxybutynin Chloride,Oxybutynin Chloride,64.01
+656,McKesson Packaging Services Business Unit of McKesson Corporation,Lorazepam,Lorazepam,132.6
+657,"Bath & Body Works, Inc.","Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",Signature Body,20.13
+658,"Planet (Suzhou) Medical Products Co., Ltd.",MENTHOL,PARAID Extra Strength Menthol Pain Relief Sleeve KNEE Large Ankles Elbows,183.45
+659,McKesson,sodium phosphate,Saline Laxative,151.6
+660,"New World Imports, Inc",Acetaminophen,Acetaminophen,191.79
+661,Unit Dose Services,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,45.91
+662,Bracco Diagnostics Inc,Rubidium Chloride RB-82,CardioGen-82,47.11
+663,"ALK-Abello, Inc.",Red Mulberry,MORUS RUBRA POLLEN,107.8
+664,Mylan Institutional Inc.,thiothixene,Thiothixene,145.3
+665,"Nova Homeopathic Therapeutics, Inc.","Anacardium, Calcerea carbonica, Hypericum, Magnesia phosphorica, Piper methysticum, Ruta graveolens, Silicea",Relaxation Complex,81.65
+666,"Safeway, Inc.","Dextromethorphan HBr, Guaifenesin, Phenylephrine",Multi Symptom Cold Relief CF,10.5
+667,Sandoz Inc,Fluoxetine Hydrochloride,Fluoxetine Hydrochloride,80.02
+668,"Preferred Pharmaceuticals, Inc.",ATORVASTATIN CALCIUM,ATORVASTATIN CALCIUM,26.13
+669,"Allergan, Inc.","Carboxymethylcellulose Sodium, Glycerin",Refresh Optive,52.4
+670,"Dispensing Solutions, Inc.",Ciclopirox Olamine,Ciclopirox Olamine,148.66
+671,Pfizer Laboratories Div Pfizer Inc,MORPHINE SULFATE and NALTREXONE HYDROCHLORIDE,EMBEDA,14.27
+672,"Preferred Pharmaceuticals, Inc",Ketoprofen,Ketoprofen,53.24
+673,"SKINFOOD CO., LTD.","ZINC OXIDE, OCTINOXATE, TITANIUM DIOXIDE, OCTISALATE",ALOE SUN BB,15.73
+674,Energetix Corp,Homeopathic Liquid,Inflamma-Tone,48.77
+675,Cardinal Health,oxybutynin chloride,Oxybutynin Chloride,59.51
+676,Rebel Distributors,TRIAMCINOLONE ACETONIDE,KENALOG-40,77.22
+677,Major Pharmaceuticals,Theophylline,Theophylline,122.87
+678,"Western Family Foods, Inc",Pyrithione zinc,Everyday Clean,183.31
+679,"ALK-Abello, Inc.",CATTLE EPITHELIA,BOS TAURUS SKIN,92.93
+680,"Taro Pharmaceuticals U.S.A., Inc.",Loratadine,Childrens Loratadine,176.93
+681,Unit Dose Services,CYCLOBENZAPRINE HYDROCHLORIDE,CYCLOBENZAPRINE HYROCHLORIDE,87.68
+682,AstraZeneca Pharmaceuticals LP,exenatide,BYDUREON,173.9
+683,"Ferndale Laboratories, Inc.",pramoxine hydrochloride,PRAX,112.82
+684,McKesson Packaging Services Business Unit of McKesson Corporation,Diazepam,Diazepam,120.12
+685,Qualitest Pharmaceuticals,vitamin a palmitate and ascorbic acid and cholecalciferol and ferrous sulfate and sodium fluoride solution,Tri-Vit With Fluoride And Iron Drops,8.93
+686,The Mentholatum Company,benzoyl peroxide,Oxy Maximum Action Advanced Face Wash,196.81
+687,Cardinal Health,Calcium Acetate,Calcium Acetate,132.77
+688,"Safetec of America, Inc.",Hydrocortisone,Hydrocortisone,189.93
+689,"Winthrop U.S, a business of sanofi-aventis U.S. LLC",zolpidem tartrate,Zolpidem Tartrate,49.88
+690,Space Brands Limited,Titanium Dioxide and Octinoxate,Eve Lom Radiance Lift Foundation SPF 15,80.15
+691,"Nelco Laboratories, Inc.",Black Walnut,Black Walnut,50.61
+692,"Newton Laboratories, Inc.","Bismuthum metallicum, Aloe, Angelica sinensis radix, Antimon. crud., Arg. nit., Arnica, Arsenicum alb., Baptisia, Bryonia, Cinchona, Graphites, Hydrastis, Ipecac., Lachesis, Lycopodium, Myrrha, Nat. carb., Nux vom., Phosphorus, Pulsatilla, Zingiber, Chamomilla, Echinacea, Iris versicolor, Ruta, Taraxacum",Indigestion - Gas,145.27
+693,Mission Hills S.A de C.V,SODIUM FLUORIDE,COLGATE KIDS,173.88
+694,Amerisource Bergen,"piperonyl butoxide, pyrethrum extract",good neighbor pharmacy lice,39.54
+695,Conopco Inc. d/b/a Unilever,Aluminum Zirconium Tetrachlorohydrex GLY,Degree Men,123.38
+696,"Dispensing Solutions, Inc.",PredniSONE,PredniSONE,191.62
+697,Cardinal Health,Furosemide,Furosemide,101.5
+698,Chain Drug Market Association,Ethyl Alcohol,Quality Choice Iodides Tincture,75.33
+699,fabrication enterprises,capsaicin,Hot Spot,159.08
+700,"PD-Rx Pharmaceuticals, Inc.",desvenlafaxine succinate,Pristiq Extended-Release,5.73
+701,Mylan Pharmaceuticals Inc.,spironolactone and hydrochlorothiazide,Spironolactone and Hydrochlorothiazide,70.27
+702,ACCESS BUSINESS GROUP INTERNATIONAL LLC,OCTOCRYLENE OXYBENZONE ZINC OXIDE,Peter Island Sunscreen,138.54
+703,Apotheca Company,Quiet Calm,Quiet Calm,132.71
+704,Cardinal Health,Ketorolac Tromethamine,Ketorolac Tromethamine,174.34
+705,SHISEIDO AMERICAS CORPORATION,"OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",SHISEIDO UV PROTECTIVE COMPACT (REFILL),61.98
+706,Energetix Corp,Homeopathic Liquid,Colo-Chord,15.1
+707,Western Family Foods Inc,Naproxen sodium,Naproxen Sodium,167.86
+708,AMOREPACIFIC,"TITANIUM DIOXIDE, OCTINOXATE, and ZINC OXIDE",LANEIGE SATIN FINISH TWIN PACT NO. 31,48.7
+709,"Physicians Total Care, Inc.",fluconazole,Fluconazole,53.29
+710,WAL-MART STORES INC,BENZALKONIUM CHLORIDE,EQUATE,137.99
+711,Kmart Corporation,Acetaminophen,Smart Sense Pain Relief,122.5
+712,Publix Super Markets Inc,Nicotine Polacrilex,stop smoking aid,23.97
+713,Ventura Corporation LTD,Octinoxate and Titanium Dioxide,LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25,31.18
+714,Cardinal Health,lisinopril,Lisinopril,46.26
+715,Velocity Pharma,Docusate Sodium,Stool Softener,87.22
+716,"Nelco Laboratories, Inc.",Wheat Smut,Wheat Smut,114.6
+717,CLINIQUE LABORATORIES INC,TITANIUM DIOXIDE,ALMOST MAKEUP,73.42
+718,Jubilant HollisterStier LLC,Tree Mix 6,"Pollens - Trees, Tree Mix 6",111.95
+719,Cardinal Health,Promethazine Hydrochloride,Promethazine Hydrochloride,10.58
+720,Homeocare Laboratories,"ASAFETIDA,CAPSICUM,POTASSIUM DICHROMATE,COLA NUT,LACHESIS MUTA VENOM,STRYCHNOS NUX-VOMICA SEED,RANUNCULUS BULBOSUS,SULFURIC ACID,ZINC.",Hangover Relief,145.75
+721,"Allergy Laboratories, Inc.",grapefruit,GRAPEFRUIT,84.32
+722,REMEDYREPACK INC.,METRONIDAZOLE,Metronidazole,143.32
+723,"Allergan, Inc.","brimonidine tartrate, timolol maleate",COMBIGAN,34.34
+724,Apotex Corp,Cefazolin,Cefazolin,125.55
+725,"Teva Parenteral Medicines, Inc.",fluorouracil,ADRUCIL,139.06
+726,STAT Rx USA LLC,ALPRAZOLAM,ALPRAZOLAM,191.85
+727,Merck Sharp & Dohme Corp.,sitagliptin and metformin hydrochloride,JANUMET,90.95
+728,"F&CO Co., Ltd.","TITANIUM DIOXIDE, OCTINOXATE",IT RADIANT CC IN MELTING FOUNDATION,19.09
+729,"SJ Creations, Inc.","Alcohol, Denatured",Papaya Mango Antibacterial Hand,86.47
+730,Clinical Solutions Wholesale,fluoxetine,Fluoxetine,115.83
+731,"Prestige Brands Holdings, Inc.",Polyvinyl Alcohol and Povidone and Tetrahydrozoline Hydrochloride,Clear Eyes Travelers Eye Relief,165.75
+732,SuperValu (Equaline),Diphenhydramine HCl,Allergy,144.36
+733,"Philosophy, Inc.",Octinoxate and Oxybenzone,Kiss of Hope Pink Tinted,124.34
+734,"Bayer HealthCare LLC, Consumer Care","Acetaminophen, Dextromethorphan hydrobromide, Chlorpheniramine maleate, and Phenylephrine hydrochloride",Alka-Seltzer Plus,182.45
+735,TYA Pharmaceuticals,clonazepam,Clonazepam,173.71
+736,L'Oreal USA Products Inc,Octinoxate,Giorgio Armani Maestro Fusion Makeup Compact Broad Spectrum SPF 29 Sunscreen,15.01
+737,"Nelco Laboratories, Inc.",Navy Beans,Navy Beans,37.21
+738,MEIJER DISTRIBUTION INC,TRICLOSAN,ANTIBACTERIAL FOAMING,54.08
+739,Walgreen Company,Acetaminophen,pain relief,88.4
+740,American Health Packaging,Lithium Carbonate,Lithium Carbonate,15.41
+741,"Glenmark Generics Inc.,USA",Levonorgestrel and Ethinyl Estradiol,MARLISSA,59.36
+742,Contract Pharmacy Services-PA,Donepezil Hydrochloride,Donepezil Hydrochloride,184.79
+743,"Allermed Laboratories, Inc.",Atriplex confertifolia,Shad Scale Pollen,87.87
+744,"Physicians Total Care, Inc.",Quetiapine fumarate,SEROQUEL,58.61
+745,AbbVie Inc.,Eprosartan Mesylate and Hydrochlorothiazide,Teveten HCT,148.43
+746,"Blenheim Pharmacal, Inc.",Cephalexin,Cephalexin,147.9
+747,"Aphena Pharma Solutions - Tennessee, LLC",Simvastatin,Simvastatin,90.86
+748,Endo Pharmaceuticals,Oxymorphone Hydrochloride,OPANA,173.52
+749,BluePoint Laboratories,bupropion,bupropion,186.65
+750,"Forest Laboratories, Inc.",diltiazem hydrochloride,TIAZAC,136.31
+751,"Hospira, Inc.",SODIUM CHLORIDE,Sodium Chloride,104.5
+752,Target Corporation,Ranitidine,UP AND UP ACID REDUCER,94.25
+753,STAT RX USA LLC,ATOMXETINE HYROCHLORIDE,STRATTERA,28.07
+754,GlaxoSmithKline LLC,fluticasone propionate,FLOVENT,106.41
+755,Wal-Mart Stores Inc,"Menthol, Methyl salicylate",Equate Cool and Heat,132.8
+756,"Alcon Laboratories, Inc.",dexamethasone,Maxidex,33.73
+757,Coltene Whaledent Inc,BENZALKONIUM CHLORIDE,Ultracare For Hands,24.15
+758,Par Pharmaceutical Inc.,tramadol hydrochloride,TRAMADOL HYDROCHLORIDE,15.62
+759,Unit Dose Services,Oxycodone hydrochloride and Acetaminophen,Oxycodone and Acetaminophen,168.21
+760,Natural Health Supply,DIEFFENBACHIA SEGUINE,Skin Irritation,51.63
+761,Jubilant HollisterStier LLC,Brazil Nut Bertholletia excelsa,"Food - Plant Source, Brazil Nut Bertholletia excelsa",193.92
+762,Hikma Pharmaceutical,Lisinopril,Lisinopril,144.36
+763,"Patriot Pharmaceuticals, LLC",galantamine hydrobromide,galantamine hydrobromide,70.31
+764,"Elizabeth Arden, Inc",OCTINOXATE and TITANIUM DIOXIDE,FLAWLESS FINISH PERFECTLY NUDE MAKEUP BROAD SPECTRUM SUNSCREEN SPF 15 SHADE AMBER,25.43
+765,"Upsher-Smith Laboratories, Inc.",Fentanyl,Fentanyl,160.89
+766,"Nelco Laboratories, Inc.",Penicillium notatum,Penicillium notatum,72.44
+767,Mallinckrodt Inc.,"thallous chloride, Tl 201",THALLOUS CHLORIDE Tl 201,31.99
+768,Rebel Distributors Corp.,Cephalexin,Cephalexin,119.45
+769,Procter & Gamble Manufacturing Company,Sodium Fluoride,Kids Crest,170.82
+770,Cardinal Health,Minoxidil,Minoxidil,89.26
+771,Home Sweet Homeopathics,"Agnus C. 30c, Borax 30c, Condurango 30c, Graphites 30c, Iodium 30c, Medorrhinum 30c, Nat Mur 30c, Platina 30c",Baby Dust,67.0
+772,"Deb USA, Inc.",Allantoin,SBS Care,55.9
+773,Cobalt Laboratories Inc.,simvastatin,Simvastatin,55.04
+774,White Manufacturing Inc. DBA Micro-West,"Adrenalinum,Cimicfuga Racemosa,Ignatia Amara,Nicotinamide,Sepia,Estradiol,Oophorinum,Estriol,Estrone",Total Tri-Estro,56.95
+775,ADIENNE SA,THIOTEPA,TEPADINA,41.98
+776,Kramer Novis.,"Guaifenesin, phenylephrine HCL, Dextromethorphan",Guaifenesin Phenylephrine Dextromethorphan,155.12
+777,Unit Dose Services,IRON SUPPLEMENT,FERROUS SULFATE,145.64
+778,Torrent Pharmaceuticals Limited,LEVOFLOXACIN,LEVOFLOXACIN,54.23
+779,Hyland's,"SODIUM PHOSPHATE, DIBASIC, ANHYDROUS",NAT. PHOS.,22.78
+780,TYA Pharmaceuticals,insulin glargine,Lantus,42.03
+781,King Bio Inc.,"Adrenalinum, Argentum iodatum, Cadmium sulphuricum, Capsicum Annuum, Fucus vesiculosus, Iodium, Kali iodatum, Ledum palustre, Lycopodium clavatum, Phosphoricum acidum, Phosphorus, Pulsatilla, Radium bromatum Strontium carbonicum, Thyroidinum, Uranium nitricum, X-ray",EMF Detox,143.09
+782,Apotheca Company,"Melatonin,",Melatonin,149.0
+783,Unifirst First Aid Corporation,"ACETAMINOPHEN, PHENYLEPHRINE HYDROCHLORIDE",Otis Clapp Mygrex,181.44
+784,Hikma Pharmaceutical,Gabapentin,Gabapentin,82.9
+785,JAFRA COSMETICS INTERNATIONAL,HOMOSALATE OCTINOXATE OCTISALATE OXYBENZONE TITANIUM DIOXIDE OCTOCRYLENE,TENDER MOMENTS,158.25
+786,"Nelco Laboratories, Inc.",House Dust,House Dust,151.28
+787,"Aphena Pharma Solutions - Tennessee, Inc.",Levothyroxine Sodium,Synthroid,124.81
+788,"Allergan, Inc.","Carboxymethylcellulose Sodium, Glycerin",Refresh Optive,92.61
+789,Colgate-Palmolive Company,Aluminum Zirconium Tetrachlorohydrex Gly,Speed Stick,22.44
+790,Major Pharmaceuticals,Acetaminophen,mapap,92.36
+791,Reckitt Benckiser LLC,Salicylic Acid,Clearasil Ultra Rapid Action,178.39
+792,3M ESPE Dental Products,sodium fluoride,Clinpro 5000,75.31
+793,SAM'S WEST INC,BENZALKONIUM CHLORIDE,SIMPLY RIGHT,63.75
+794,"Dong Sung Pharm. Co., Ltd.","Titanium Dioxide, Octinoxate",The Cover Classic Pro Foundation,75.4
+795,MAKEUP ART COSMETICS,"OCTINOXATE, TITANIUM DIOXIDE",STUDIO FINISH CONCEALER,58.94
+796,"Teva Parenteral Medicines, Inc.",Oxaliplatin,Oxaliplatin,131.93
+797,Meijer Distribution Inc,Simethicone,gas relief,55.65
+798,GlaxoSmithKline LLC,rosiglitazone maleate,AVANDIA,150.7
+799,B. Braun Medical Inc.,Sodium Chloride,Sodium Chloride,156.24
+800,Apotheca Company,"Pulsatilla, Plantago major, Euphorbium officinarum, Luffa operculata, Mercurius iodatus ruber, Mucosa nasalis suis, Argentum nitricum, Hepar sulphuris calcareum, Calcarea carbonica, Natrum muriaticum,",Sinusitis,99.31
+801,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,Flurbiprofen,Flurbiprofen,99.03
+802,Kmart Corporation,"Diphenhydramine HCl, Phenylephrine HCl",Smart Sense Childrens Nighttime Cold and Cough,26.27
+803,"New American Therapeutics, Inc",penciclovir,Denavir,58.38
+804,AbbVie Inc.,Diltiazem Hydrochloride,Cardizem LA,26.16
+805,RITE AID CORPORATION,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Rite Aid Sport SunscreenSPF 50,5.23
+806,Sun Pharmaceutical Industries Limited,Rivastigmine Tartrate,Rivastigmine Tartrate,43.44
+807,Rebel Distributors Corp,"Butalbital, Aspirin and Caffeine","Butalbital, Aspirin and Caffeine",182.95
+808,"Nelco Laboratories, Inc.",Salmon,Salmon,87.61
+809,"Actavis Pharma, Inc.",risedronate sodium,risedronate sodium,114.21
+810,"Owens & Minor, Inc",ISOPROPYL ALCOHOL,MediChoice Alcohol Swabstick,4.83
+811,Cantrell Drug Company,Heparin Sodium,Heparin Sodium,128.66
+812,JHP Pharmaceuticals LLC,vasopressin,Pitressin,167.37
+813,"Dermalogica, Inc.","Avobenzone, Octinoxate, OXYBENZONE, and Octisalate",Oil Clearing Matte Moisturizer,38.9
+814,"Physicians Total Care, Inc.","synthetic conjugated estrogens, B",ENJUVIA,168.5
+815,"SHISEIDO CO., LTD.",Octinoxate and Titanium dioxide,CLE DE PEAU BEAUTE PW FOUNDATION s,171.39
+816,Cardinal Health,Calcium Acetate,Calcium Acetate,85.75
+817,Novartis Pharmaceuticals Corporation,estradiol,Vivelle-Dot,171.52
+818,PharmaDerm a division of Fougera Pharmaceuticals Inc.,oxiconazole nitrate,Oxistat,128.42
+819,"Nelco Laboratories, Inc.",House Fly,House Fly,22.68
+820,Baxter Healthcare Corporation,"sodium chloride, soldium lactate, potassium chloride and calcium chloride",Lactated Ringers,128.06
+821,"Kareway Product, Inc.","Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",Night Time Cold/Flu Relief Original,42.29
+822,Cardinal Health,Ramipril,Ramipril,168.87
+823,Nash-Finch Company,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",Night Time Cherry,161.99
+824,Topco Associates LLC,Nicotine Polacrilex,Topcare Nicotine,96.33
+825,Rebel Distributors Corp,Doxycycline Hyclate,Doxycycline Hyclate,144.94
+826,MassBiologics,Tetanus and Diphtheria Toxoids Adsorbed,Tetanus and Diphtheria Toxoids Adsorbed,148.68
+827,"Actavis Pharma, Inc.",Ciprofloxacin,Ciprofloxacin,153.61
+828,"Golden State Medical Supply, Inc.",paroxetine hydrochloride,PAROXETINE,145.15
+829,Walgreens Company,"Ranitidine Tablet USP, 75mg",Wal-Zan 75,101.07
+830,"Preferred Pharmaceuticals, Inc.",Sumatriptan,Sumatriptan,147.38
+831,NATIONWIDE PROMOTIONS LLC,Ethyl Alcohol,Hand Sanitizer,154.29
+832,"Nelco Laboratories, Inc.",Raspberry,Raspberry,101.76
+833,Mylan Pharmaceuticals Inc.,lithium carbonate,Lithium Carbonate,18.11
+834,Aidarex Pharmaceuticals LLC,Lorazepam,Lorazepam,17.04
+835,"VALUE MERCHANDISERS COMPANY, INC.",Acetaminophen,Childrens Pain Relief Grape Flavor,39.02
+836,"ALK-Abello, Inc.",HELMINTHOSPORIUM SOLANI,HELMINTHOSPORIUM SOLANI,95.11
+837,Humphreyline,benzalkonium chloride,hand sanitizer,3.55
+838,"Merle Norman Cosmetics, Inc","Octinoxate, Titanium Dioxide",Soft Bisque Expert Finish Makeup Makeup Broad Spectrum SPF 25,154.43
+839,"Roxane Laboratories,Inc",Lidocaine Hydrochloride,Lidocaine Viscous,102.28
+840,AstraZeneca LP,Candesartan cilexetil,ATACAND,157.63
+841,P and L Development of New York Corporation,Aspirin,Aspirin,58.82
+842,Meda Pharmaceuticals Inc.,Torsemide,Demadex,182.76
+843,Dr. Reddy's Laboratories Limited,Metoprolol succinate,Metoprolol succinate,106.98
+844,Ranbaxy Pharmaceuticals Inc.,Benazepril hydrochloride and hydrochlorothiazide,Benazepril hydrochloride and hydrochlorothiazide,162.24
+845,"Peaceful Mountain, Inc.","Althaea Officinalis, CAlendula Officinalis, Croton Tiglium, Natrum Muriaticum, Plantago Major, Rhus Toxicodendron",Shingles Rescue,190.88
+846,"Safetec of America, Inc.",benzalkonium chloride,Hand Sanitizer,77.08
+847,AMERICAN SALES COMPANY,TRICLOSAN,CARE ONE,20.75
+848,Teva Pharmaceuticals USA Inc,Budesonide,Budesonide,63.0
+849,Cadila Healthcare Limited,buspirone hydrochloride,buspirone hydrochloride,4.65
+850,Walgreen Company,"Acetaminophen, Caffeine",tension headache,89.36
+851,Covis Pharmaceuticals Inc,metoprolol succinate and hydrochlorothiazide,Dutoprol,182.04
+852,Uriel Pharmacy Inc.,Equisetum Formica,Equisetum Formica,102.83
+853,"Nelco Laboratories, Inc.",Trichophyton mentagrophytes,Trichophyton mentagrophytes,28.47
+854,Rite Aid Corporation,ibuprofen,ibuprofen,105.08
+855,Concordia Pharmaceuticals Inc.,prednisolone sodium phosphate,Orapred,126.16
+856,Parfums Christian Dior,"OCTINOXATE, TITANIUM DIOXIDE",CD DiorSkin Forever Flawless Perfection Fusion Wear Makeup SPF 25 - 011,44.05
+857,Valu Merchandisers Company (Best Choice),Aspirin,Enteric Coated Aspirin,71.21
+858,"BioActive Nutritional, Inc.","Sarsaparilla, Solidago Virgaurea, Uva Ursi, Apis Mellifica, Arsenicum Album, Cantharis",Cystoforce,33.06
+859,Washington Homeopathic Products,CINCHONA OFFICINALIS BARK,Cinchona Officinalis Kit Refill,15.97
+860,Apotex Corp.,fentanyl,Fentanyl,49.91
+861,Lake Erie Medical DBA Quality Care Products LLC,Metoprolol succinate,TOPROL,45.93
+862,American Health Packaging,potassium chloride,Potassium Chloride,136.09
+863,Apotex Corp.,Carvedilol,Carvedilol,30.37
+864,LLC Federal Solutions,Guaifenesin and Dextromethorphan Hydrobromide,Guaifenesin and Dextromethorphan Hydrobromide,152.14
+865,"Cephalon, Inc.",tiagabine hydrochloride,GABITRIL,75.25
+866,Bonita Pharmaceuticals LLC,Diphenhydramine Hydrochloride,Diphenhydramine Hydrochloride,49.04
+867,"Ventura Corporation (San Juan, P.R)",Octinoxate and Oxybenzone,ESIKA,90.49
+868,Meijer Distribution,Triclosan 0.46%,Foaming Hand Wash,177.45
+869,Teva Pharmaceuticals USA Inc,Ketoconazole,Ketoconazole,99.02
+870,The Kroger Co.,Ibuprofen,Ibuprofen,87.13
+871,"ALK-Abello, Inc.",histamine phosphate,histamine positive,1.07
+872,Sandoz Inc.,Levothyroxine sodium,Levothyroxine sodium,179.57
+873,"Allergan, Inc.",carboxymethylcellulose sodium,REFRESH PLUS,194.35
+874,CVS Pharmacy,"acetaminophen, dextromethorphan hbr, phenylephrine hcl",Daytime,136.09
+875,"Libertas Pharma, Inc.",Acarbose,Acarbose,57.57
+876,Natural Health Supply,TITANIUM,NAUSEA,166.76
+877,"Universal Companies, Inc.",Lidocaine,Plum Smooth Plumb Numb Gelee,82.29
+878,REMEDYREPACK INC.,Hydrochlorothiazide,Hydrochlorothiazide,189.02
+879,Mangiacotti Floral LLC,ALCOHOL,Lavender Waterless Hand Wash,181.14
+880,"Physicians Total Care, Inc.",alfuzosin hydrochloride,Uroxatral,104.29
+881,"MEIJER, INC.",Ibuprofen,Ibuprofen,70.77
+882,Walgreen Company,Hydrocortisone,anti itch,78.94
+883,"Physicians Total Care, Inc.",norgestimate and ethinyl estradiol,ORTHO TRI CYCLEN Lo,89.79
+884,Mylan Institutional Inc.,Leucovorin Calcium,Leucovorin Calcium,52.27
+885,"Stila Styles, LLC",OCTINOXATE and ZINC OXIDE,Stila Stay All Day 10-in-1 HD Illuminating Beauty Balm Broad Spectrum SPF 30,27.99
+886,"Antigen Laboratories, Inc.",Paper Mulberry,Paper Mulberry,58.31
+887,CHAIN DRUG MARKETING ASSOCIATION INC,"Acetaminophen, Aspirin and caffeine",Extra Strength Headache Relief,133.52
+888,HyVee Inc,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",Mucus Relief,125.35
+889,Dr. Reddy's Laboratories Limited,Risperidone,Risperidone,196.03
+890,Topco Associates LLC,"Acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Topcare Nite Time Day Time,150.62
+891,The Kroger Co.,Benzalkonium chloride,home sense,90.17
+892,Medi-Physics Inc. dba GE Healthcare.,TECHNETIUM TC-99M EXAMETAZIME,CERETEC,89.17
+893,Proficient Rx LP,Metoprolol tartrate,Metoprolol Tartrate,75.39
+894,ESTEE LAUDER INC,"OCTINOXATE, TITANIUM DIOXIDE",RENUTRIV,180.96
+895,"Watson Pharma, Inc.",levonorgestrel,NEXT CHOICE,192.16
+896,"BioActive Nutritional, Inc.","Arsenicum Album, Chelidonium Majus, Coccus Cacti, Echinacea, Hydrastis Canadensis, Lycopodium Clavatum, Lym D Nosode",Lym D,55.24
+897,"Matrixx Initiatives, Inc.",oxymetazoline hydrochloride,Zicam,142.16
+898,Polygen Pharmaceuticals LLC,Ibuprofen,Ibuprofen,98.56
+899,Lancaster S.A.M.,"Octinoxate, Octisalate",Rimmel London,12.85
+900,Access Business Group LLC,Tolnaftate,Formucare Athletes Foot,122.25
+901,McKesson Packaging Services a business unit of McKesson Corporation,Gabapentin,Gabapentin,140.44
+902,STAT Rx USA LLC,BUPROPION HYDROCHLORIDE,WELLBUTRIN,31.19
+903,Pfizer Laboratories Div Pfizer Inc,Pamidronate Disodium,Pamidronate Disodium,171.86
+904,"Newton Laboratories, Inc.","Arsenicum alb., Bryonia, Cantharis, Chelidonium majus, Cistus canadensis, Conium, Croton, Dulcamara, Graphites, Kali bic., Lycopodium, Mezereum, Nux vom., Petroleum, Pulsatilla, Ranunc. bulb., Rhus toxicodendron, Sarsaparilla, Sepia, Sulphur, Thuja occ., Echinacea, Hypericum",Herpes Sores,179.55
+905,"Medical-Technical Gases, Inc.","OXYGEN, CARBON DIOXIDE","COMPRESSED GAS, OXIDIZING, N.O.S.",127.89
+906,"Harris Pharmaceutical, Inc.",Mometasone Furoate,Mometasone Furoate,19.11
+907,"Fabrication Enterprises, inc.",MENTHOL,Cold Spot,120.15
+908,Conopco Inc. d/b/a Unilever,Aluminum Zirconium Tetrachlorohydrex GLY,Degree Nature Effects Orange Flower and Cranberry,28.0
+909,Perrigo New York Inc,fenofibrate,fenofibrate,137.89
+910,McKesson Packaging Services a business unit of McKesson Corporation,Gabapentin,Gabapentin,172.96
+911,Target Corporation,"Cetirizine HCl, Pseudoephedrine HCl",Up and Up all day allergy relief d,118.08
+912,L. Perrigo Company,Hydrocortisone,good sense anti itch,16.68
+913,Zydus Pharmaceuticals (USA) Inc.,levofloxacin,levofloxacin,77.75
+914,"Physicians Total Care, Inc.",Spironolactone and Hydrochlorothiazide,Spironolactone and Hydrochlorothiazide,152.64
+915,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.","Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Aveeno Baby Continuous Protection,75.93
+916,"A&Z Pharmaceutical, Inc.",Ibuprofen,Ibuprofen (NSAID) Pain Reliever/Fever Reducer,86.83
+917,Duane Reade,hydrocortisone,Duane Reade,44.59
+918,Cardinal Health,imipenem and cilastatin sodium,PRIMAXIN,53.22
+919,"Merle Norman Cosmetics, Inc","OCTINOXATE, OCTISALATE",Foundation Primer Plus SPF 15,70.85
+920,Uriel Pharmacy Inc.,Sarothamnus Aurum Special Order,Sarothamnus Aurum Special Order,123.13
+921,Novo Nordisk,somatropin,Norditropin,112.65
+922,Bristol-Myers Squibb Pharma Company,efavirenz,SUSTIVA,35.49
+923,"SJ Creations, Inc.",Triclosan,Golden Pear Antibacterial Foaming Hand Wash,153.61
+924,"Allermed Laboratories, Inc.",Cat Hair,Cat Hair,53.77
+925,Sanofi-Aventis U.S. LLC,DAUNORUBICIN HYDROCHLORIDE,DAUNORUBICIN HYDROCHLORIDE,199.53
+926,"Par Pharmaceuticals, Inc.",Bupropion Hydrochloride,Bupropion Hydrochloride,65.99
+927,Eisai Inc.,perampanel,Fycompa,174.52
+928,Maplewood Company,"Coffea Tosta, Avena Sativa, Equisetum Hyemale, Hypericum Perforatum, Ginkgo Biloba, Germanium Sesquioxide, Silicea",Hydrate,60.75
+929,HARMON STORES INC.,BACITRACIN,FACE VALUES BACITRACIN,195.02
+930,HyVee Inc,Ibuprofen,Ibuprofen,158.91
+931,H E B,Calcium carbonate,Antacid,69.82
+932,"Avon Products, Inc.",Aluminum Chlorohydrate,Far Away Dreams,197.83
+933,"Eon Labs, Inc.",sotalol hydrochloride,sotalol hydrochloride,120.29
+934,"Nelco Laboratories, Inc.",Orris Root,Orris Root,13.41
+935,"SJ Creations, Inc.",ALCOHOL,Jelly Bean Antibacterial Hand,113.79
+936,Parke-Davis Div of Pfizer Inc,quinapril hydrochloride,Accupril,99.66
+937,Family Dollar,Diphenhydramine HCl,Allergy Relief,100.03
+938,3M ESPE Dental Products,sodium fluoride,ControlRx,39.76
+939,Cardinal Health,Alprazolam,Alprazolam,52.4
+940,"GANZ U.S.A., LLC",Benzalkonium Chloride,Teacher Collection Anti Bacterial,170.95
+941,"Allergy Laboratories, Inc.",wheat,WHOLE WHEAT FOOD,43.08
+942,"Nelco Laboratories, Inc.",Celery,Celery,113.64
+943,"Watson Pharma, Inc.",Omeprazole,Omeprazole,110.08
+944,Baxter Healthcare Corporation,Anti-Inhibitor Coagulant Complex,FEIBA,160.11
+945,BCM Cosmetique SAS,OCTINOXATE,No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Ebony,197.9
+946,ENCHANTE ACCESSORIES INC.,ALCOHOL,Body Luxuries Tihitian Vanilla Antibacterial Hand Sanitizer,186.09
+947,"Antigen Laboratories, Inc.",White Hickory,White Hickory,21.17
+948,"Preferred Pharmaceuticals, Inc.",Dicyclomine Hydrochloride,Dicyclomine Hydrochloride,82.42
+949,L'Oreal USA Products Inc,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,LOreal Paris Sublime Sun,66.93
+950,Mylan Institutional Inc.,Carisoprodol,Carisoprodol,6.26
+951,"Ventura Corporation (San Juan, P.R)",Titanium Dioxide,ESIKA,1.91
+952,Walgreen Company,Acetaminophen,childrens pain and fever,42.71
+953,REMEDYREPACK INC.,ATORVASTATIN CALCIUM,Lipitor,109.19
+954,Cardinal Health,DIMETHICONE,CardinalHealth personal cleansing cloth with dimethicone,175.37
+955,Rij Pharmaceutical Corporation,Bismuth Subsalicylate,Pink Bismuth Maximum Strength,74.95
+956,"Dispensing Solutions, Inc.",Methimazole,Methimazole,42.12
+957,"NCS HealthCare of KY, Inc dba Vangard Labs",Benzonatate,Benzonatate,196.42
+958,"SJ Creations, Inc.",Triclosan,Cucumber and Lime Antibacterial Foaming Hand Wash,11.84
+959,"Nelco Laboratories, Inc.",Strawberry,Strawberry,146.28
+960,"Nelco Laboratories, Inc.",Mango,Mango,138.98
+961,KVG Group Inc,Clotrimazole,footlogix,152.02
+962,Rubbermaid Commercial Products LLC,Triclosan,TC SpraySoap,25.81
+963,7-Eleven,fexofenadine hcl,7 Select Allergy Relief,99.34
+964,Mylan Pharmaceuticals Inc.,clonazepam,Clonazepam,131.79
+965,"Humco holding Group, Inc.",Gentian Violet 1%,Humco Gentian Violet 1%,146.54
+966,Cadila Healthcare Limited,meloxicam,meloxicam,78.69
+967,"Aphena Pharma Solutions - Tennessee, LLC",acetaminophen and codeine phosphate,Acetaminophen And Codeine,161.07
+968,Supervalu Inc,"Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",equaline childrens cold and cough,1.36
+969,Apotheca Company,"Rhus toxicodendron,",Rhus Tox,119.92
+970,REMEDYREPACK INC.,Venlafaxine,Venlafaxine,149.82
+971,AMERISOURCEBERGEN DRUG CORPORATION,Gabapentin,Gabapentin,154.96
+972,"Nature's Way Products, Inc.","Aconitum napellus, Bryonia alba, Eucalyptus globulus, Eupatorium perfoliatum, Gelsemium sempervirens, Ipecacuanha, Phosphorus, Sambucus nigra",SambiFlu,56.82
+973,"MAYBORN USA, INC.",BENZALKONIUM CHLORIDE,Antibacterial Hand,120.76
+974,REMEDYREPACK INC.,Sertraline Hydrochloride,Sertraline Hydrochloride,91.07
+975,"Foshan Flying Medical Products Co., Ltd.",chlorhexidine gluconate,Antiseptic Cleansing Wipes,22.47
+976,West-Ward Pharmaceutical Corp,Topiramate,Topiramate,146.78
+977,"C.B. Fleet Company, Inc.","sodium phosphate, dibasic and sodium phosphate, monobasic",Pedia-Lax,5.07
+978,"Shopko Stores Operating Co., LLC",Oxymetazoline HCl,Nasal,96.28
+979,Gurwitch Products,"AVOBENZONE, OCTISALATE, OCTOCRYLENE",laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen FAWN,76.85
+980,AbbVie Inc.,Trandolapril and Verapamil Hydrochloride,Tarka,196.8
+981,Putney Inc,Cefpodoxime Proxetil,Cefpodoxime Proxetil,73.9
+982,Ventura International LTD,Octinoxate and Oxybenzone,LBEL Couleur luxe rouge irresistible maximum hydration SPF 17,118.21
+983,"Personal Care Products, Inc.",Menthol,Personal Care Ice Cold,104.39
+984,Kaiser Foundation Hospitals,Hydrocortisone,KAISER PERMANENTE,7.31
+985,REMEDYREPACK INC.,Dorzolamide Hydrochloride,Dorzolamide Hydrochloride,164.09
+986,Quality Home Products,"Acetaminophen, Dextromethorphan HBr, and Phenylephrine HCL.",TopCare day time severe cold and cough,194.78
+987,SUN PHARMACEUTICAL INDUSTRIES LIMITED,Torsemide,Torsemide,196.98
+988,P and L Development of New York Corporation,"IBUPROFEN, DIPHENHYDRAMINE HCL",Ibuprofen and Diphenhydramine HCl,1.72
+989,AMERICAN SALES COMPANY,TRICLOSAN,CARE ONE,186.17
+990,Mylan Specialty,selegiline,EMSAM,82.7
+991,"Ningbo Dowland Daily Health Co., Ltd",ETHYL ALCOHOL,Antibacterial Hand Sanitizer,161.81
+992,"PSS World Medical, Inc.",CHLOROXYLENOL,Antimicrobial Antiseptic Hand Wash,187.54
+993,Cardinal Health,Niacin,Niaspan,101.35
+994,Carilion Materials Management,isosorbide mononitrate,isosorbide mononitrate,32.75
+995,Contract Pharmacy Services-PA,Hydrochlorothiazide,Hydrochlorothiazide,159.45
+996,Actavis Kadian LLC,morphine sulfate,Kadian,187.95
+997,Qualitest Pharmaceuticals,amlodipine besylate,Amlodipine Besylate,78.14
+998,Sanum Kehlbeck GmbH & Co. KG,streptococcus pneumoniae immunoserum rabbit and staphylococcus aureus immunoserum rabbit,Pleo Poly K,126.55
+999,Rite Aid Corporation,"Acetaminophen, Dextromethorphan hydrobromide, and Phenylephrine hydrochloride",Rite Aid Daytime Severe Cold and Cough Relief,70.05
+1000,West-Ward Pharmaceutical Corp,Lithium Carbonate,Lithium Carbonate,167.97
